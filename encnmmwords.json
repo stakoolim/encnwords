@@ -2259,13 +2259,13 @@
    "Myanmar": "ပြီးပြီ"
  },
  {
-   "No": "252;General;Basic;I don't understand;我不明白或\n我听不懂;wǒ bù míng bai/\nwǒ tīng bù dǒng;နားမလည်ဘူး",
-   "Category": "",
-   "Subcategory": "",
-   "English": "",
-   "Chinese": "",
-   "Pinyin": "",
-   "Myanmar": ""
+   "No": "252",
+   "Category": "General",
+   "Subcategory": "Basic",
+   "English": "I don't understand",
+   "Chinese": "我不明白 或\n 我听不懂",
+   "Pinyin": "wǒ bù míng bai /\nwǒ tīng bù dǒng ",
+   "Myanmar": "နားမလည်ဘူး"
  },
  {
    "No": "253",
