@@ -40,8 +40,8 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Boil Water",
-   "Chinese": "烧水",
-   "Pinyin": "shāo shuǐ",
+   "Chinese": "煮水",
+   "Pinyin": "Zhǔ shuǐ",
    "Myanmar": "ရေနွေးချက်သည်"
  },
  {
@@ -148,7 +148,7 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Want",
-   "Chinese": "要 or 想要",
+   "Chinese": "要 或 想要",
    "Pinyin": "yào / xiǎng yào",
    "Myanmar": "လိုချင်သည်"
  },
@@ -219,7 +219,7 @@
    "No": "25",
    "Category": "General",
    "Subcategory": "Basic",
-   "English": "I / Me",
+   "English": "I or Me",
    "Chinese": "我",
    "Pinyin": "wǒ",
    "Myanmar": "ကျွန်မ / ကျွန်ုပ်"
@@ -445,7 +445,7 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Floor Cloth",
-   "Chinese": "地布 or 抹布",
+   "Chinese": "地布 或 抹布",
    "Pinyin": "dì bù / mā bù",
    "Myanmar": "ကြမ်းတိုက်အဝတ်"
  },
@@ -1075,7 +1075,7 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Monday",
-   "Chinese": "星期一 or 礼拜一",
+   "Chinese": "星期一 或 礼拜一",
    "Pinyin": "xīng qī yī / lǐ bài yī",
    "Myanmar": "တနင်္လာ"
  },
@@ -1084,7 +1084,7 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Tuesday",
-   "Chinese": "星期二 or 礼拜二",
+   "Chinese": "星期二 或 礼拜二",
    "Pinyin": "xīng qī èr / lǐ bài èr",
    "Myanmar": "အင်္ဂါ"
  },
@@ -1093,7 +1093,7 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Wednesday",
-   "Chinese": "星期三 or 礼拜三",
+   "Chinese": "星期三 或 礼拜三",
    "Pinyin": "xīng qī sān / lǐ bài sān",
    "Myanmar": "ဗုဒ္ဓဟူး"
  },
@@ -1102,7 +1102,7 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Thursday",
-   "Chinese": "星期四 or 礼拜四",
+   "Chinese": "星期四 或 礼拜四",
    "Pinyin": "xīng qī sì / lǐ bài sì",
    "Myanmar": "ကြာသပတေး"
  },
@@ -1111,7 +1111,7 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Friday",
-   "Chinese": "星期五 or 礼拜五",
+   "Chinese": "星期五 或 礼拜五",
    "Pinyin": "xīng qī wǔ / lǐ bài wǔ",
    "Myanmar": "သောကြာ"
  },
@@ -1120,7 +1120,7 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Saturday",
-   "Chinese": "星期六 or 礼拜六",
+   "Chinese": "星期六 或 礼拜六",
    "Pinyin": "xīng qī liù / lǐ bài liù",
    "Myanmar": "စနေ"
  },
@@ -1129,7 +1129,7 @@
    "Category": "General",
    "Subcategory": "Basic",
    "English": "Sunday",
-   "Chinese": "星期天 or 星期日",
+   "Chinese": "星期天 或 星期日",
    "Pinyin": "xīng qī tiān / xīng qī rì",
    "Myanmar": "တနင်္ဂနွေ"
  },
@@ -2253,7 +2253,7 @@
    "No": "251",
    "Category": "General",
    "Subcategory": "Basic",
-   "English": "Finish Done",
+   "English": "Finish or Done",
    "Chinese": "做完了 或 好了",
    "Pinyin": "zuò wán le / hǎo le",
    "Myanmar": "ပြီးပြီ"
