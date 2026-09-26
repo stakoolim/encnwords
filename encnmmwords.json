@@ -1,1700 +1,2549 @@
 [
  {
-   "No.": 1,
+   "No": "1",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Close"
+   "Subcategory": "Basic",
+   "English": "Close",
+   "Chinese": "关",
+   "Pinyin": "guān",
+   "Myanmar": "ပိတ်သည် / ပိတ်ပါ"
  },
  {
-   "No.": 2,
+   "No": "2",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Have"
+   "Subcategory": "Basic",
+   "English": "Have",
+   "Chinese": "有",
+   "Pinyin": "yǒu",
+   "Myanmar": "ရှိသည်"
  },
  {
-   "No.": 3,
+   "No": "3",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Don't Have"
+   "Subcategory": "Basic",
+   "English": "Don't Have",
+   "Chinese": "没有",
+   "Pinyin": "méi yǒu",
+   "Myanmar": "မရှိ"
  },
  {
-   "No.": 4,
+   "No": "4",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Water"
+   "Subcategory": "Basic",
+   "English": "Water",
+   "Chinese": "水",
+   "Pinyin": "shuǐ",
+   "Myanmar": "ရေ"
  },
  {
-   "No.": 5,
+   "No": "5",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Boil Water"
+   "Subcategory": "Basic",
+   "English": "Boil Water",
+   "Chinese": "烧水",
+   "Pinyin": "shāo shuǐ",
+   "Myanmar": "ရေနွေးချက်သည်"
  },
  {
-   "No.": 6,
+   "No": "6",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Hot Water"
+   "Subcategory": "Basic",
+   "English": "Hot Water",
+   "Chinese": "热水",
+   "Pinyin": "rè shuǐ",
+   "Myanmar": "ရေနွေး"
  },
  {
-   "No.": 7,
+   "No": "7",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Warm Water"
+   "Subcategory": "Basic",
+   "English": "Warm Water",
+   "Chinese": "温水",
+   "Pinyin": "wēn shuǐ",
+   "Myanmar": "ရေနွေးနွေး"
  },
  {
-   "No.": 8,
+   "No": "8",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Cold Water"
+   "Subcategory": "Basic",
+   "English": "Cold Water",
+   "Chinese": "冷水",
+   "Pinyin": "lěng shuǐ",
+   "Myanmar": "ရေအေး"
  },
  {
-   "No.": 9,
+   "No": "9",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Pour Water"
+   "Subcategory": "Basic",
+   "English": "Pour Water",
+   "Chinese": "倒水",
+   "Pinyin": "dào shuǐ",
+   "Myanmar": "ရေလောင်းသည် / ရေထည့်ပေးသည်"
  },
  {
-   "No.": 10,
+   "No": "10",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Bread"
+   "Subcategory": "Basic",
+   "English": "Bread",
+   "Chinese": "面包",
+   "Pinyin": "miàn bāo",
+   "Myanmar": "ပေါင်မုန့်"
  },
  {
-   "No.": 11,
+   "No": "11",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Rice"
+   "Subcategory": "Basic",
+   "English": "Rice",
+   "Chinese": "米饭",
+   "Pinyin": "mǐ fàn",
+   "Myanmar": "ထမင်း"
  },
  {
-   "No.": 12,
+   "No": "12",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Noodle"
+   "Subcategory": "Basic",
+   "English": "Noodle",
+   "Chinese": "面",
+   "Pinyin": "miàn",
+   "Myanmar": "ခေါက်ဆွဲ"
  },
  {
-   "No.": 13,
+   "No": "13",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Cup"
+   "Subcategory": "Basic",
+   "English": "Cup",
+   "Chinese": "杯子",
+   "Pinyin": "bēi zi",
+   "Myanmar": "ခွက်"
  },
  {
-   "No.": 14,
+   "No": "14",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Wash"
+   "Subcategory": "Basic",
+   "English": "Wash",
+   "Chinese": "洗",
+   "Pinyin": "xǐ",
+   "Myanmar": "ဆေးသည် / လျှော်သည်"
  },
  {
-   "No.": 15,
+   "No": "15",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Wait"
+   "Subcategory": "Basic",
+   "English": "Wait",
+   "Chinese": "等一下",
+   "Pinyin": "děng yí xià",
+   "Myanmar": "ခဏစောင့်ပါ"
  },
  {
-   "No.": 16,
+   "No": "16",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Eat"
+   "Subcategory": "Basic",
+   "English": "Eat",
+   "Chinese": "吃",
+   "Pinyin": "chī",
+   "Myanmar": "စားသည်"
  },
  {
-   "No.": 17,
+   "No": "17",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Want"
+   "Subcategory": "Basic",
+   "English": "Want",
+   "Chinese": "要 or 想要",
+   "Pinyin": "yào / xiǎng yào",
+   "Myanmar": "လိုချင်သည်"
  },
  {
-   "No.": 18,
+   "No": "18",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Don’t Want"
+   "Subcategory": "Basic",
+   "English": "Don’t Want",
+   "Chinese": "不要",
+   "Pinyin": "bú yào",
+   "Myanmar": "မလိုချင်"
  },
  {
-   "No.": 19,
+   "No": "19",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Take"
+   "Subcategory": "Basic",
+   "English": "Take",
+   "Chinese": "拿",
+   "Pinyin": "ná",
+   "Myanmar": "ယူသည် / ယူပါ"
  },
  {
-   "No.": 20,
+   "No": "20",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Put"
+   "Subcategory": "Basic",
+   "English": "Put",
+   "Chinese": "放",
+   "Pinyin": "fàng",
+   "Myanmar": "ထားသည် / ထားပါ"
  },
  {
-   "No.": 21,
+   "No": "21",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Come"
+   "Subcategory": "Basic",
+   "English": "Come",
+   "Chinese": "来",
+   "Pinyin": "lái",
+   "Myanmar": "လာသည် / လာပါ"
  },
  {
-   "No.": 22,
+   "No": "22",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Go"
+   "Subcategory": "Basic",
+   "English": "Go",
+   "Chinese": "去",
+   "Pinyin": "qù",
+   "Myanmar": "သွားသည် / သွားပါ"
  },
  {
-   "No.": 23,
+   "No": "23",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Table"
+   "Subcategory": "Basic",
+   "English": "Table",
+   "Chinese": "桌子",
+   "Pinyin": "zhuō zi",
+   "Myanmar": "စားပွဲ"
  },
  {
-   "No.": 24,
+   "No": "24",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Chair"
+   "Subcategory": "Basic",
+   "English": "Chair",
+   "Chinese": "椅子",
+   "Pinyin": "yǐ zi",
+   "Myanmar": "ကုလားထိုင်"
  },
  {
-   "No.": 25,
+   "No": "25",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "I / Me"
+   "Subcategory": "Basic",
+   "English": "I / Me",
+   "Chinese": "我",
+   "Pinyin": "wǒ",
+   "Myanmar": "ကျွန်မ / ကျွန်ုပ်"
  },
  {
-   "No.": 26,
+   "No": "26",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "You"
+   "Subcategory": "Basic",
+   "English": "You",
+   "Chinese": "你",
+   "Pinyin": "nǐ",
+   "Myanmar": "သင် / မင်း"
  },
  {
-   "No.": 27,
+   "No": "27",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "I Know"
+   "Subcategory": "Basic",
+   "English": "I Know",
+   "Chinese": "我知道",
+   "Pinyin": "wǒ zhī dào",
+   "Myanmar": "ကျွန်မသိတယ်"
  },
  {
-   "No.": 28,
+   "No": "28",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "I Don't Know"
+   "Subcategory": "Basic",
+   "English": "I Don't Know",
+   "Chinese": "我不知道",
+   "Pinyin": "wǒ bù zhī dào",
+   "Myanmar": "ကျွန်မမသိဘူး"
  },
  {
-   "No.": 29,
+   "No": "29",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "I Want"
+   "Subcategory": "Basic",
+   "English": "I Want",
+   "Chinese": "我要",
+   "Pinyin": "wǒ yào",
+   "Myanmar": "ကျွန်မလိုချင်တယ်"
  },
  {
-   "No.": 30,
+   "No": "30",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "I Don’t Want"
+   "Subcategory": "Basic",
+   "English": "I Don’t Want",
+   "Chinese": "我不要",
+   "Pinyin": "wǒ bú yào",
+   "Myanmar": "ကျွန်မမလိုချင်ဘူး"
  },
  {
-   "No.": 31,
+   "No": "31",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Here"
+   "Subcategory": "Basic",
+   "English": "Here",
+   "Chinese": "这里",
+   "Pinyin": "zhè lǐ",
+   "Myanmar": "ဒီမှာ"
  },
  {
-   "No.": 32,
+   "No": "32",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "There"
+   "Subcategory": "Basic",
+   "English": "There",
+   "Chinese": "那里",
+   "Pinyin": "nà lǐ",
+   "Myanmar": "အဲဒီမှာ"
  },
  {
-   "No.": 33,
+   "No": "33",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Fried Rice"
+   "Subcategory": "Basic",
+   "English": "Fried Rice",
+   "Chinese": "炒饭",
+   "Pinyin": "chǎo fàn",
+   "Myanmar": "ထမင်းကြော်"
  },
  {
-   "No.": 34,
+   "No": "34",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Fried Noodle"
+   "Subcategory": "Basic",
+   "English": "Fried Noodle",
+   "Chinese": "炒面",
+   "Pinyin": "chǎo miàn",
+   "Myanmar": "ခေါက်ဆွဲကြော်"
  },
  {
-   "No.": 35,
+   "No": "35",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Breakfast"
+   "Subcategory": "Basic",
+   "English": "Breakfast",
+   "Chinese": "早餐",
+   "Pinyin": "zǎo cān",
+   "Myanmar": "မနက်စာ"
  },
  {
-   "No.": 36,
+   "No": "36",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Lunch"
+   "Subcategory": "Basic",
+   "English": "Lunch",
+   "Chinese": "午餐",
+   "Pinyin": "wǔ cān",
+   "Myanmar": "နေ့လယ်စာ"
  },
  {
-   "No.": 37,
+   "No": "37",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Dinner"
+   "Subcategory": "Basic",
+   "English": "Dinner",
+   "Chinese": "晚餐",
+   "Pinyin": "wǎn cān",
+   "Myanmar": "ညစာ"
  },
  {
-   "No.": 38,
+   "No": "38",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Cut"
+   "Subcategory": "Basic",
+   "English": "Cut",
+   "Chinese": "切",
+   "Pinyin": "qiē",
+   "Myanmar": "လှီးသည်"
  },
  {
-   "No.": 39,
+   "No": "39",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Small"
+   "Subcategory": "Basic",
+   "English": "Small",
+   "Chinese": "小",
+   "Pinyin": "xiǎo",
+   "Myanmar": "သေးသည် / သေး"
  },
  {
-   "No.": 40,
+   "No": "40",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Big"
+   "Subcategory": "Basic",
+   "English": "Big",
+   "Chinese": "大",
+   "Pinyin": "dà",
+   "Myanmar": "ကြီးသည် / ကြီး"
  },
  {
-   "No.": 41,
+   "No": "41",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Plate"
+   "Subcategory": "Basic",
+   "English": "Plate",
+   "Chinese": "盘子",
+   "Pinyin": "pán zi",
+   "Myanmar": "ပန်းကန်ပြား"
  },
  {
-   "No.": 42,
+   "No": "42",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Bowl"
+   "Subcategory": "Basic",
+   "English": "Bowl",
+   "Chinese": "碗",
+   "Pinyin": "wǎn",
+   "Myanmar": "ပန်းကန်လုံး"
  },
  {
-   "No.": 43,
+   "No": "43",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Big Bowl"
+   "Subcategory": "Basic",
+   "English": "Big Bowl",
+   "Chinese": "大碗",
+   "Pinyin": "dà wǎn",
+   "Myanmar": "ပန်းကန်လုံးကြီး"
  },
  {
-   "No.": 44,
+   "No": "44",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Small Bowl"
+   "Subcategory": "Basic",
+   "English": "Small Bowl",
+   "Chinese": "小碗",
+   "Pinyin": "xiǎo wǎn",
+   "Myanmar": "ပန်းကန်လုံးသေး"
  },
  {
-   "No.": 45,
+   "No": "45",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Give Me"
+   "Subcategory": "Basic",
+   "English": "Give Me",
+   "Chinese": "给我",
+   "Pinyin": "gěi wǒ",
+   "Myanmar": "ကျွန်မကိုပေးပါ"
  },
  {
-   "No.": 46,
+   "No": "46",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Spoon"
+   "Subcategory": "Basic",
+   "English": "Spoon",
+   "Chinese": "勺子",
+   "Pinyin": "sháo zi",
+   "Myanmar": "ဇွန်း"
  },
  {
-   "No.": 47,
+   "No": "47",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Fork"
+   "Subcategory": "Basic",
+   "English": "Fork",
+   "Chinese": "叉子",
+   "Pinyin": "chā zi",
+   "Myanmar": "ခက်ရင်း"
  },
  {
-   "No.": 48,
+   "No": "48",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Chopstick"
+   "Subcategory": "Basic",
+   "English": "Chopstick",
+   "Chinese": "筷子",
+   "Pinyin": "kuài zi",
+   "Myanmar": "တူ"
  },
  {
-   "No.": 49,
+   "No": "49",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Floor"
+   "Subcategory": "Basic",
+   "English": "Floor",
+   "Chinese": "地板",
+   "Pinyin": "dì bǎn",
+   "Myanmar": "ကြမ်းပြင်"
  },
  {
-   "No.": 50,
+   "No": "50",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Floor Cloth"
+   "Subcategory": "Basic",
+   "English": "Floor Cloth",
+   "Chinese": "地布 or 抹布",
+   "Pinyin": "dì bù / mā bù",
+   "Myanmar": "ကြမ်းတိုက်အဝတ်"
  },
  {
-   "No.": 51,
+   "No": "51",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Table Cloth"
+   "Subcategory": "Basic",
+   "English": "Table Cloth",
+   "Chinese": "桌布",
+   "Pinyin": "zhuō bù",
+   "Myanmar": "စားပွဲခင်း"
  },
  {
-   "No.": 52,
+   "No": "52",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Slipper"
+   "Subcategory": "Basic",
+   "English": "Slipper",
+   "Chinese": "拖鞋",
+   "Pinyin": "tuō xié",
+   "Myanmar": "ဖိနပ်ပါး"
  },
  {
-   "No.": 53,
+   "No": "53",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Vegetable"
+   "Subcategory": "Basic",
+   "English": "Vegetable",
+   "Chinese": "蔬菜",
+   "Pinyin": "shū cài",
+   "Myanmar": "ဟင်းသီးဟင်းရွက်"
  },
  {
-   "No.": 54,
+   "No": "54",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Fry Vegetable"
+   "Subcategory": "Basic",
+   "English": "Fry Vegetable",
+   "Chinese": "炒菜",
+   "Pinyin": "chǎo cài",
+   "Myanmar": "ဟင်းသီးဟင်းရွက်ကြော်သည်"
  },
  {
-   "No.": 55,
+   "No": "55",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Sweet Corn"
+   "Subcategory": "Basic",
+   "English": "Sweet Corn",
+   "Chinese": "玉米",
+   "Pinyin": "yù mǐ",
+   "Myanmar": "ပြောင်းဖူးချို"
  },
  {
-   "No.": 56,
+   "No": "56",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Carrot"
+   "Subcategory": "Basic",
+   "English": "Carrot",
+   "Chinese": "胡萝卜",
+   "Pinyin": "hú luó bo",
+   "Myanmar": "မုန်လာဥနီ"
  },
  {
-   "No.": 57,
+   "No": "57",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Meat"
+   "Subcategory": "Basic",
+   "English": "Meat",
+   "Chinese": "肉",
+   "Pinyin": "ròu",
+   "Myanmar": "အသား"
  },
  {
-   "No.": 58,
+   "No": "58",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Chicken Leg"
+   "Subcategory": "Basic",
+   "English": "Chicken Leg",
+   "Chinese": "鸡腿",
+   "Pinyin": "jī tuǐ",
+   "Myanmar": "ကြက်ပေါင်"
  },
  {
-   "No.": 59,
+   "No": "59",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Pork Belly"
+   "Subcategory": "Basic",
+   "English": "Pork Belly",
+   "Chinese": "五花肉",
+   "Pinyin": "wǔ huā ròu",
+   "Myanmar": "ဝက်သုံးထပ်သား"
  },
  {
-   "No.": 60,
+   "No": "60",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Pork Ribs"
+   "Subcategory": "Basic",
+   "English": "Pork Ribs",
+   "Chinese": "排骨",
+   "Pinyin": "pái gǔ",
+   "Myanmar": "ဝက်နံရိုး"
  },
  {
-   "No.": 61,
+   "No": "61",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Cook Rice"
+   "Subcategory": "Basic",
+   "English": "Cook Rice",
+   "Chinese": "煮饭",
+   "Pinyin": "zhǔ fàn",
+   "Myanmar": "ထမင်းချက်သည်"
  },
  {
-   "No.": 62,
+   "No": "62",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Cook Soup"
+   "Subcategory": "Basic",
+   "English": "Cook Soup",
+   "Chinese": "煮汤",
+   "Pinyin": "zhǔ tāng",
+   "Myanmar": "ဟင်းရည်ချက်သည်"
  },
  {
-   "No.": 63,
+   "No": "63",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "On Electricity"
+   "Subcategory": "Basic",
+   "English": "On Electricity",
+   "Chinese": "开电",
+   "Pinyin": "kāi diàn",
+   "Myanmar": "မီးဖွင့်ပါ"
  },
  {
-   "No.": 64,
+   "No": "64",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Off Electricity"
+   "Subcategory": "Basic",
+   "English": "Off Electricity",
+   "Chinese": "关电",
+   "Pinyin": "guān diàn",
+   "Myanmar": "မီးပိတ်ပါ"
  },
  {
-   "No.": 65,
+   "No": "65",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Washing Machine"
+   "Subcategory": "Basic",
+   "English": "Washing Machine",
+   "Chinese": "洗衣机",
+   "Pinyin": "xǐ yī jī",
+   "Myanmar": "အဝတ်လျှော်စက်"
  },
  {
-   "No.": 66,
+   "No": "66",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Rice Cooker"
+   "Subcategory": "Basic",
+   "English": "Rice Cooker",
+   "Chinese": "电饭锅",
+   "Pinyin": "diàn fàn guō",
+   "Myanmar": "ထမင်းပေါင်းအိုး"
  },
  {
-   "No.": 67,
+   "No": "67",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Kettle"
+   "Subcategory": "Basic",
+   "English": "Kettle",
+   "Chinese": "水壶",
+   "Pinyin": "shuǐ hú",
+   "Myanmar": "ရေနွေးအိုး"
  },
  {
-   "No.": 68,
+   "No": "68",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Refrigerator"
+   "Subcategory": "Basic",
+   "English": "Refrigerator",
+   "Chinese": "冰箱",
+   "Pinyin": "bīng xiāng",
+   "Myanmar": "ရေခဲသေတ္တာ"
  },
  {
-   "No.": 69,
+   "No": "69",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Wipe Floor"
+   "Subcategory": "Basic",
+   "English": "Wipe Floor",
+   "Chinese": "擦地",
+   "Pinyin": "cā dì",
+   "Myanmar": "ကြမ်းပြင်သုတ်ပါ"
  },
  {
-   "No.": 70,
+   "No": "70",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Sweep Floor"
+   "Subcategory": "Basic",
+   "English": "Sweep Floor",
+   "Chinese": "扫地",
+   "Pinyin": "sǎo dì",
+   "Myanmar": "ကြမ်းပြင်လှည်းပါ"
  },
  {
-   "No.": 71,
+   "No": "71",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Mop Floor"
+   "Subcategory": "Basic",
+   "English": "Mop Floor",
+   "Chinese": "拖地",
+   "Pinyin": "tuō dì",
+   "Myanmar": "ကြမ်းတိုက်ပါ"
  },
  {
-   "No.": 72,
+   "No": "72",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Rubbish"
+   "Subcategory": "Basic",
+   "English": "Rubbish",
+   "Chinese": "垃圾",
+   "Pinyin": "lā jī",
+   "Myanmar": "အမှိုက်"
  },
  {
-   "No.": 73,
+   "No": "73",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Dirty"
+   "Subcategory": "Basic",
+   "English": "Dirty",
+   "Chinese": "脏",
+   "Pinyin": "zāng",
+   "Myanmar": "ညစ်ပတ်သည်"
  },
  {
-   "No.": 74,
+   "No": "74",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Smelly"
+   "Subcategory": "Basic",
+   "English": "Smelly",
+   "Chinese": "臭",
+   "Pinyin": "chòu",
+   "Myanmar": "နံသည်"
  },
  {
-   "No.": 75,
+   "No": "75",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Toilet"
+   "Subcategory": "Basic",
+   "English": "Toilet",
+   "Chinese": "厕所",
+   "Pinyin": "cè suǒ",
+   "Myanmar": "အိမ်သာ"
  },
  {
-   "No.": 76,
+   "No": "76",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Kitchen"
+   "Subcategory": "Basic",
+   "English": "Kitchen",
+   "Chinese": "厨房",
+   "Pinyin": "chú fáng",
+   "Myanmar": "မီးဖိုချောင်"
  },
  {
-   "No.": 77,
+   "No": "77",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Bedroom"
+   "Subcategory": "Basic",
+   "English": "Bedroom",
+   "Chinese": "卧室",
+   "Pinyin": "wò shì",
+   "Myanmar": "အိပ်ခန်း"
  },
  {
-   "No.": 78,
+   "No": "78",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Living Room"
+   "Subcategory": "Basic",
+   "English": "Living Room",
+   "Chinese": "客厅",
+   "Pinyin": "kè tīng",
+   "Myanmar": "ဧည့်ခန်း"
  },
  {
-   "No.": 79,
+   "No": "79",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Black"
+   "Subcategory": "Basic",
+   "English": "Black",
+   "Chinese": "黑色",
+   "Pinyin": "hēi sè",
+   "Myanmar": "အနက်"
  },
  {
-   "No.": 80,
+   "No": "80",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Blue"
+   "Subcategory": "Basic",
+   "English": "Blue",
+   "Chinese": "蓝色",
+   "Pinyin": "lán sè",
+   "Myanmar": "အပြာ"
  },
  {
-   "No.": 81,
+   "No": "81",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Brown"
+   "Subcategory": "Basic",
+   "English": "Brown",
+   "Chinese": "棕色",
+   "Pinyin": "zōng sè",
+   "Myanmar": "အညို"
  },
  {
-   "No.": 82,
+   "No": "82",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Gold"
+   "Subcategory": "Basic",
+   "English": "Gold",
+   "Chinese": "金色",
+   "Pinyin": "jīn sè",
+   "Myanmar": "ရွှေရောင်"
  },
  {
-   "No.": 83,
+   "No": "83",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Green"
+   "Subcategory": "Basic",
+   "English": "Green",
+   "Chinese": "绿色",
+   "Pinyin": "lǜ sè",
+   "Myanmar": "အစိမ်း"
  },
  {
-   "No.": 84,
+   "No": "84",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Grey"
+   "Subcategory": "Basic",
+   "English": "Grey",
+   "Chinese": "灰色",
+   "Pinyin": "huī sè",
+   "Myanmar": "မီးခိုးရောင်"
  },
  {
-   "No.": 85,
+   "No": "85",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Orange"
+   "Subcategory": "Basic",
+   "English": "Orange",
+   "Chinese": "橙色",
+   "Pinyin": "chéng sè",
+   "Myanmar": "လိမ္မော်ရောင်"
  },
  {
-   "No.": 86,
+   "No": "86",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Pink"
+   "Subcategory": "Basic",
+   "English": "Pink",
+   "Chinese": "粉红色",
+   "Pinyin": "fěn hóng sè",
+   "Myanmar": "ပန်းရောင်"
  },
  {
-   "No.": 87,
+   "No": "87",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Purple"
+   "Subcategory": "Basic",
+   "English": "Purple",
+   "Chinese": "紫色",
+   "Pinyin": "zǐ sè",
+   "Myanmar": "ခရမ်းရောင်"
  },
  {
-   "No.": 88,
+   "No": "88",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Red"
+   "Subcategory": "Basic",
+   "English": "Red",
+   "Chinese": "红色",
+   "Pinyin": "hóng sè",
+   "Myanmar": "အနီ"
  },
  {
-   "No.": 89,
+   "No": "89",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Silver"
+   "Subcategory": "Basic",
+   "English": "Silver",
+   "Chinese": "银色",
+   "Pinyin": "yín sè",
+   "Myanmar": "ငွေရောင်"
  },
  {
-   "No.": 90,
+   "No": "90",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "White"
+   "Subcategory": "Basic",
+   "English": "White",
+   "Chinese": "白色",
+   "Pinyin": "bái sè",
+   "Myanmar": "အဖြူ"
  },
  {
-   "No.": 91,
+   "No": "91",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Yellow"
+   "Subcategory": "Basic",
+   "English": "Yellow",
+   "Chinese": "黄色",
+   "Pinyin": "huáng sè",
+   "Myanmar": "အဝါ"
  },
  {
-   "No.": 92,
+   "No": "92",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "1"
+   "Subcategory": "Basic",
+   "English": "1",
+   "Chinese": "一",
+   "Pinyin": "yī",
+   "Myanmar": "တစ်"
  },
  {
-   "No.": 93,
+   "No": "93",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "2"
+   "Subcategory": "Basic",
+   "English": "2",
+   "Chinese": "二",
+   "Pinyin": "èr",
+   "Myanmar": "နှစ်"
  },
  {
-   "No.": 94,
+   "No": "94",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "3"
+   "Subcategory": "Basic",
+   "English": "3",
+   "Chinese": "三",
+   "Pinyin": "sān",
+   "Myanmar": "သုံး"
  },
  {
-   "No.": 95,
+   "No": "95",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "4"
+   "Subcategory": "Basic",
+   "English": "4",
+   "Chinese": "四",
+   "Pinyin": "sì",
+   "Myanmar": "လေး"
  },
  {
-   "No.": 96,
+   "No": "96",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "5"
+   "Subcategory": "Basic",
+   "English": "5",
+   "Chinese": "五",
+   "Pinyin": "wǔ",
+   "Myanmar": "ငါး"
  },
  {
-   "No.": 97,
+   "No": "97",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "6"
+   "Subcategory": "Basic",
+   "English": "6",
+   "Chinese": "六",
+   "Pinyin": "liù",
+   "Myanmar": "ခြောက်"
  },
  {
-   "No.": 98,
+   "No": "98",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "7"
+   "Subcategory": "Basic",
+   "English": "7",
+   "Chinese": "七",
+   "Pinyin": "qī",
+   "Myanmar": "ခုနစ်"
  },
  {
-   "No.": 99,
+   "No": "99",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "8"
+   "Subcategory": "Basic",
+   "English": "8",
+   "Chinese": "八",
+   "Pinyin": "bā",
+   "Myanmar": "ရှစ်"
  },
  {
-   "No.": 100,
+   "No": "100",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "9"
+   "Subcategory": "Basic",
+   "English": "9",
+   "Chinese": "九",
+   "Pinyin": "jiǔ",
+   "Myanmar": "ကိုး"
  },
  {
-   "No.": 101,
+   "No": "101",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "10"
+   "Subcategory": "Basic",
+   "English": "10",
+   "Chinese": "十",
+   "Pinyin": "shí",
+   "Myanmar": "တစ်ဆယ်"
  },
  {
-   "No.": 102,
+   "No": "102",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "11"
+   "Subcategory": "Basic",
+   "English": "11",
+   "Chinese": "十一",
+   "Pinyin": "shí yī",
+   "Myanmar": "တစ်ဆယ့်တစ်"
  },
  {
-   "No.": 103,
+   "No": "103",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "12"
+   "Subcategory": "Basic",
+   "English": "12",
+   "Chinese": "十二",
+   "Pinyin": "shí èr",
+   "Myanmar": "တစ်ဆယ့်နှစ်"
  },
  {
-   "No.": 104,
+   "No": "104",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "13"
+   "Subcategory": "Basic",
+   "English": "13",
+   "Chinese": "十三",
+   "Pinyin": "shí sān",
+   "Myanmar": "တစ်ဆယ့်သုံး"
  },
  {
-   "No.": 105,
+   "No": "105",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "14"
+   "Subcategory": "Basic",
+   "English": "14",
+   "Chinese": "十四",
+   "Pinyin": "shí sì",
+   "Myanmar": "တစ်ဆယ့်လေး"
  },
  {
-   "No.": 106,
+   "No": "106",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "15"
+   "Subcategory": "Basic",
+   "English": "15",
+   "Chinese": "十五",
+   "Pinyin": "shí wǔ",
+   "Myanmar": "တစ်ဆယ့်ငါး"
  },
  {
-   "No.": 107,
+   "No": "107",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "16"
+   "Subcategory": "Basic",
+   "English": "16",
+   "Chinese": "十六",
+   "Pinyin": "shí liù",
+   "Myanmar": "တစ်ဆယ့်ခြောက်"
  },
  {
-   "No.": 108,
+   "No": "108",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "17"
+   "Subcategory": "Basic",
+   "English": "17",
+   "Chinese": "十七",
+   "Pinyin": "shí qī",
+   "Myanmar": "တစ်ဆယ့်ခုနစ်"
  },
  {
-   "No.": 109,
+   "No": "109",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "18"
+   "Subcategory": "Basic",
+   "English": "18",
+   "Chinese": "十八",
+   "Pinyin": "shí bā",
+   "Myanmar": "တစ်ဆယ့်ရှစ်"
  },
  {
-   "No.": 110,
+   "No": "110",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "19"
+   "Subcategory": "Basic",
+   "English": "19",
+   "Chinese": "十九",
+   "Pinyin": "shí jiǔ",
+   "Myanmar": "တစ်ဆယ့်ကိုး"
  },
  {
-   "No.": 111,
+   "No": "111",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "20"
+   "Subcategory": "Basic",
+   "English": "20",
+   "Chinese": "二十",
+   "Pinyin": "èr shí",
+   "Myanmar": "နှစ်ဆယ်"
  },
  {
-   "No.": 112,
+   "No": "112",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "30"
+   "Subcategory": "Basic",
+   "English": "30",
+   "Chinese": "三十",
+   "Pinyin": "sān shí",
+   "Myanmar": "သုံးဆယ်"
  },
  {
-   "No.": 113,
+   "No": "113",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "40"
+   "Subcategory": "Basic",
+   "English": "40",
+   "Chinese": "四十",
+   "Pinyin": "sì shí",
+   "Myanmar": "လေးဆယ်"
  },
  {
-   "No.": 114,
+   "No": "114",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "50"
+   "Subcategory": "Basic",
+   "English": "50",
+   "Chinese": "五十",
+   "Pinyin": "wǔ shí",
+   "Myanmar": "ငါးဆယ်"
  },
  {
-   "No.": 115,
+   "No": "115",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "60"
+   "Subcategory": "Basic",
+   "English": "60",
+   "Chinese": "六十",
+   "Pinyin": "liù shí",
+   "Myanmar": "ခြောက်ဆယ်"
  },
  {
-   "No.": 116,
+   "No": "116",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "70"
+   "Subcategory": "Basic",
+   "English": "70",
+   "Chinese": "七十",
+   "Pinyin": "qī shí",
+   "Myanmar": "ခုနစ်ဆယ်"
  },
  {
-   "No.": 117,
+   "No": "117",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "80"
+   "Subcategory": "Basic",
+   "English": "80",
+   "Chinese": "八十",
+   "Pinyin": "bā shí",
+   "Myanmar": "ရှစ်ဆယ်"
  },
  {
-   "No.": 118,
+   "No": "118",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "90"
+   "Subcategory": "Basic",
+   "English": "90",
+   "Chinese": "九十",
+   "Pinyin": "jiǔ shí",
+   "Myanmar": "ကိုးဆယ်"
  },
  {
-   "No.": 119,
+   "No": "119",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "100"
+   "Subcategory": "Basic",
+   "English": "100",
+   "Chinese": "一百",
+   "Pinyin": "yì bǎi",
+   "Myanmar": "တစ်ရာ"
  },
  {
-   "No.": 120,
+   "No": "120",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Monday"
+   "Subcategory": "Basic",
+   "English": "Monday",
+   "Chinese": "星期一 or 礼拜一",
+   "Pinyin": "xīng qī yī / lǐ bài yī",
+   "Myanmar": "တနင်္လာ"
  },
  {
-   "No.": 121,
+   "No": "121",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Tuesday"
+   "Subcategory": "Basic",
+   "English": "Tuesday",
+   "Chinese": "星期二 or 礼拜二",
+   "Pinyin": "xīng qī èr / lǐ bài èr",
+   "Myanmar": "အင်္ဂါ"
  },
  {
-   "No.": 122,
+   "No": "122",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Wednesday"
+   "Subcategory": "Basic",
+   "English": "Wednesday",
+   "Chinese": "星期三 or 礼拜三",
+   "Pinyin": "xīng qī sān / lǐ bài sān",
+   "Myanmar": "ဗုဒ္ဓဟူး"
  },
  {
-   "No.": 123,
+   "No": "123",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Thursday"
+   "Subcategory": "Basic",
+   "English": "Thursday",
+   "Chinese": "星期四 or 礼拜四",
+   "Pinyin": "xīng qī sì / lǐ bài sì",
+   "Myanmar": "ကြာသပတေး"
  },
  {
-   "No.": 124,
+   "No": "124",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Friday"
+   "Subcategory": "Basic",
+   "English": "Friday",
+   "Chinese": "星期五 or 礼拜五",
+   "Pinyin": "xīng qī wǔ / lǐ bài wǔ",
+   "Myanmar": "သောကြာ"
  },
  {
-   "No.": 125,
+   "No": "125",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Saturday"
+   "Subcategory": "Basic",
+   "English": "Saturday",
+   "Chinese": "星期六 or 礼拜六",
+   "Pinyin": "xīng qī liù / lǐ bài liù",
+   "Myanmar": "စနေ"
  },
  {
-   "No.": 126,
+   "No": "126",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "Sunday"
+   "Subcategory": "Basic",
+   "English": "Sunday",
+   "Chinese": "星期天 or 星期日",
+   "Pinyin": "xīng qī tiān / xīng qī rì",
+   "Myanmar": "တနင်္ဂနွေ"
  },
  {
-   "No.": 127,
+   "No": "127",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "January"
+   "Subcategory": "Basic",
+   "English": "January",
+   "Chinese": "一月",
+   "Pinyin": "yī yuè",
+   "Myanmar": "ဇန်နဝါရီ"
  },
  {
-   "No.": 128,
+   "No": "128",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "February"
+   "Subcategory": "Basic",
+   "English": "February",
+   "Chinese": "二月",
+   "Pinyin": "èr yuè",
+   "Myanmar": "ဖေဖော်ဝါရီ"
  },
  {
-   "No.": 129,
+   "No": "129",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "March"
+   "Subcategory": "Basic",
+   "English": "March",
+   "Chinese": "三月",
+   "Pinyin": "sān yuè",
+   "Myanmar": "မတ်"
  },
  {
-   "No.": 130,
+   "No": "130",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "April"
+   "Subcategory": "Basic",
+   "English": "April",
+   "Chinese": "四月",
+   "Pinyin": "sì yuè",
+   "Myanmar": "ဧပြီ"
  },
  {
-   "No.": 131,
+   "No": "131",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "May"
+   "Subcategory": "Basic",
+   "English": "May",
+   "Chinese": "五月",
+   "Pinyin": "wǔ yuè",
+   "Myanmar": "မေ"
  },
  {
-   "No.": 132,
+   "No": "132",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "June"
+   "Subcategory": "Basic",
+   "English": "June",
+   "Chinese": "六月",
+   "Pinyin": "liù yuè",
+   "Myanmar": "ဇွန်"
  },
  {
-   "No.": 133,
+   "No": "133",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "July"
+   "Subcategory": "Basic",
+   "English": "July",
+   "Chinese": "七月",
+   "Pinyin": "qī yuè",
+   "Myanmar": "ဇူလိုင်"
  },
  {
-   "No.": 134,
+   "No": "134",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "August"
+   "Subcategory": "Basic",
+   "English": "August",
+   "Chinese": "八月",
+   "Pinyin": "bā yuè",
+   "Myanmar": "ဩဂုတ်"
  },
  {
-   "No.": 135,
+   "No": "135",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "September"
+   "Subcategory": "Basic",
+   "English": "September",
+   "Chinese": "九月",
+   "Pinyin": "jiǔ yuè",
+   "Myanmar": "စက်တင်ဘာ"
  },
  {
-   "No.": 136,
+   "No": "136",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "October"
+   "Subcategory": "Basic",
+   "English": "October",
+   "Chinese": "十月",
+   "Pinyin": "shí yuè",
+   "Myanmar": "အောက်တိုဘာ"
  },
  {
-   "No.": 137,
+   "No": "137",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "November"
+   "Subcategory": "Basic",
+   "English": "November",
+   "Chinese": "十一月",
+   "Pinyin": "shí yī yuè",
+   "Myanmar": "နိုဝင်ဘာ"
  },
  {
-   "No.": 138,
+   "No": "138",
    "Category": "General",
-   "Sub-Category": "Basic",
-   "Words": "December"
+   "Subcategory": "Basic",
+   "English": "December",
+   "Chinese": "十二月",
+   "Pinyin": "shí èr yuè",
+   "Myanmar": "ဒီဇင်ဘာ"
  },
  {
-   "No.": 139,
+   "No": "139",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Arrange"
+   "Subcategory": "Basic",
+   "English": "Arrange",
+   "Chinese": "安排",
+   "Pinyin": "ān pái",
+   "Myanmar": "စီစဉ်သည်"
  },
  {
-   "No.": 140,
+   "No": "140",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Ask"
+   "Subcategory": "Basic",
+   "English": "Ask",
+   "Chinese": "问",
+   "Pinyin": "wèn",
+   "Myanmar": "မေးသည်"
  },
  {
-   "No.": 141,
+   "No": "141",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Bathe"
+   "Subcategory": "Basic",
+   "English": "Bathe",
+   "Chinese": "洗澡",
+   "Pinyin": "xǐ zǎo",
+   "Myanmar": "ရေချိုးသည်"
  },
  {
-   "No.": 142,
+   "No": "142",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Bring"
+   "Subcategory": "Basic",
+   "English": "Bring",
+   "Chinese": "带来",
+   "Pinyin": "dài lái",
+   "Myanmar": "ယူလာသည်"
  },
  {
-   "No.": 143,
+   "No": "143",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Call"
+   "Subcategory": "Basic",
+   "English": "Call",
+   "Chinese": "叫 或 打电话",
+   "Pinyin": "jiào / dǎ diàn huà",
+   "Myanmar": "ခေါ်သည် / ဖုန်းဆက်သည်"
  },
  {
-   "No.": 144,
+   "No": "144",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Carry"
+   "Subcategory": "Basic",
+   "English": "Carry",
+   "Chinese": "搬 或 拿",
+   "Pinyin": "bān / ná",
+   "Myanmar": "သယ်သည် / ကိုင်သည်"
  },
  {
-   "No.": 145,
+   "No": "145",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Change"
+   "Subcategory": "Basic",
+   "English": "Change",
+   "Chinese": "换",
+   "Pinyin": "huàn",
+   "Myanmar": "ပြောင်းသည် / လဲသည်"
  },
  {
-   "No.": 146,
+   "No": "146",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Check"
+   "Subcategory": "Basic",
+   "English": "Check",
+   "Chinese": "检查",
+   "Pinyin": "jiǎn chá",
+   "Myanmar": "စစ်ဆေးသည်"
  },
  {
-   "No.": 147,
+   "No": "147",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Continue"
+   "Subcategory": "Basic",
+   "English": "Continue",
+   "Chinese": "继续",
+   "Pinyin": "jì xù",
+   "Myanmar": "ဆက်လုပ်သည်"
  },
  {
-   "No.": 148,
+   "No": "148",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Correct"
+   "Subcategory": "Basic",
+   "English": "Correct",
+   "Chinese": "改正",
+   "Pinyin": "gǎi zhèng",
+   "Myanmar": "ပြင်ဆင်သည်"
  },
  {
-   "No.": 149,
+   "No": "149",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Deliver"
+   "Subcategory": "Basic",
+   "English": "Deliver",
+   "Chinese": "送",
+   "Pinyin": "sòng",
+   "Myanmar": "ပို့သည်"
  },
  {
-   "No.": 150,
+   "No": "150",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Drop"
+   "Subcategory": "Basic",
+   "English": "Drop",
+   "Chinese": "掉下 或 放下",
+   "Pinyin": "diào xià / fàng xià",
+   "Myanmar": "ကျစေသည် / ချထားသည်"
  },
  {
-   "No.": 151,
+   "No": "151",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Fetch"
+   "Subcategory": "Basic",
+   "English": "Fetch",
+   "Chinese": "去拿",
+   "Pinyin": "qù ná",
+   "Myanmar": "သွားယူသည်"
  },
  {
-   "No.": 152,
+   "No": "152",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Fill"
+   "Subcategory": "Basic",
+   "English": "Fill",
+   "Chinese": "装满 或 填满",
+   "Pinyin": "zhuāng mǎn / tián mǎn",
+   "Myanmar": "ဖြည့်သည်"
  },
  {
-   "No.": 153,
+   "No": "153",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Find"
+   "Subcategory": "Basic",
+   "English": "Find",
+   "Chinese": "找到",
+   "Pinyin": "zhǎo dào",
+   "Myanmar": "ရှာတွေ့သည်"
  },
  {
-   "No.": 154,
+   "No": "154",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Give"
+   "Subcategory": "Basic",
+   "English": "Give",
+   "Chinese": "给",
+   "Pinyin": "gěi",
+   "Myanmar": "ပေးသည်"
  },
  {
-   "No.": 155,
+   "No": "155",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Help"
+   "Subcategory": "Basic",
+   "English": "Help",
+   "Chinese": "帮忙",
+   "Pinyin": "bāng máng",
+   "Myanmar": "ကူညီသည်"
  },
  {
-   "No.": 156,
+   "No": "156",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Hold"
+   "Subcategory": "Basic",
+   "English": "Hold",
+   "Chinese": "拿着 或 抱着",
+   "Pinyin": "ná zhe / bào zhe",
+   "Myanmar": "ကိုင်ထားသည်/ဖက်ထားသည်"
  },
  {
-   "No.": 157,
+   "No": "157",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "How"
+   "Subcategory": "Basic",
+   "English": "How",
+   "Chinese": "怎么",
+   "Pinyin": "zěn me",
+   "Myanmar": "ဘယ်လို"
  },
  {
-   "No.": 158,
+   "No": "158",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Increase"
+   "Subcategory": "Basic",
+   "English": "Increase",
+   "Chinese": "增加",
+   "Pinyin": "zēng jiā",
+   "Myanmar": "တိုးသည်"
  },
  {
-   "No.": 159,
+   "No": "159",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Inside"
+   "Subcategory": "Basic",
+   "English": "Inside",
+   "Chinese": "里面",
+   "Pinyin": "lǐ miàn",
+   "Myanmar": "အတွင်း"
  },
  {
-   "No.": 160,
+   "No": "160",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Keep"
+   "Subcategory": "Basic",
+   "English": "Keep",
+   "Chinese": "保持 或 放着",
+   "Pinyin": "bǎo chí / fàng zhe",
+   "Myanmar": "ထိန်းထားသည် / ထားသည်"
  },
  {
-   "No.": 161,
+   "No": "161",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Kneel"
+   "Subcategory": "Basic",
+   "English": "Kneel",
+   "Chinese": "跪",
+   "Pinyin": "guì",
+   "Myanmar": "ဒူးထောက်သည်"
  },
  {
-   "No.": 162,
+   "No": "162",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Knock"
+   "Subcategory": "Basic",
+   "English": "Knock",
+   "Chinese": "敲",
+   "Pinyin": "qiāo",
+   "Myanmar": "တံခါးခေါက်သည်"
  },
  {
-   "No.": 163,
+   "No": "163",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Leave"
+   "Subcategory": "Basic",
+   "English": "Leave",
+   "Chinese": "离开",
+   "Pinyin": "lí kāi",
+   "Myanmar": "ထွက်သွားသည်"
  },
  {
-   "No.": 164,
+   "No": "164",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Left"
+   "Subcategory": "Basic",
+   "English": "Left",
+   "Chinese": "左边",
+   "Pinyin": "zuǒ biān",
+   "Myanmar": "ဘယ်ဘက်"
  },
  {
-   "No.": 165,
+   "No": "165",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Lift"
+   "Subcategory": "Basic",
+   "English": "Lift",
+   "Chinese": "抬 或 举起",
+   "Pinyin": "tái / jǔ qǐ",
+   "Myanmar": "မသည် / မြှောက်သည်"
  },
  {
-   "No.": 166,
+   "No": "166",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Like"
+   "Subcategory": "Basic",
+   "English": "Like",
+   "Chinese": "喜欢",
+   "Pinyin": "xǐ huān",
+   "Myanmar": "ကြိုက်သည်"
  },
  {
-   "No.": 167,
+   "No": "167",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Listen"
+   "Subcategory": "Basic",
+   "English": "Listen",
+   "Chinese": "听",
+   "Pinyin": "tīng",
+   "Myanmar": "နားထောင်သည်"
  },
  {
-   "No.": 168,
+   "No": "168",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Lock"
+   "Subcategory": "Basic",
+   "English": "Lock",
+   "Chinese": "锁",
+   "Pinyin": "suǒ",
+   "Myanmar": "သော့ခတ်သည်"
  },
  {
-   "No.": 169,
+   "No": "169",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Look"
+   "Subcategory": "Basic",
+   "English": "Look",
+   "Chinese": "看",
+   "Pinyin": "kàn",
+   "Myanmar": "ကြည့်သည်"
  },
  {
-   "No.": 170,
+   "No": "170",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Lose"
+   "Subcategory": "Basic",
+   "English": "Lose",
+   "Chinese": "丢失",
+   "Pinyin": "diū shī",
+   "Myanmar": "ပျောက်သည်"
  },
  {
-   "No.": 171,
+   "No": "171",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Near"
+   "Subcategory": "Basic",
+   "English": "Near",
+   "Chinese": "附近 或 旁边",
+   "Pinyin": "fù jìn / páng biān",
+   "Myanmar": "အနီး / ဘေးမှာ"
  },
  {
-   "No.": 172,
+   "No": "172",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Need"
+   "Subcategory": "Basic",
+   "English": "Need",
+   "Chinese": "需要",
+   "Pinyin": "xū yào",
+   "Myanmar": "လိုအပ်သည်"
  },
  {
-   "No.": 173,
+   "No": "173",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "No"
+   "Subcategory": "Basic",
+   "English": "No",
+   "Chinese": "不 或 没有",
+   "Pinyin": "bù / méi yǒu",
+   "Myanmar": "မဟုတ် / မရှိ"
  },
  {
-   "No.": 174,
+   "No": "174",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Open"
+   "Subcategory": "Basic",
+   "English": "Open",
+   "Chinese": "打开",
+   "Pinyin": "dǎ kāi",
+   "Myanmar": "ဖွင့်သည်"
  },
  {
-   "No.": 175,
+   "No": "175",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Outside"
+   "Subcategory": "Basic",
+   "English": "Outside",
+   "Chinese": "外面",
+   "Pinyin": "wài miàn",
+   "Myanmar": "အပြင်"
  },
  {
-   "No.": 176,
+   "No": "176",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Prepare"
+   "Subcategory": "Basic",
+   "English": "Prepare",
+   "Chinese": "准备",
+   "Pinyin": "zhǔn bèi",
+   "Myanmar": "ပြင်ဆင်သည်"
  },
  {
-   "No.": 177,
+   "No": "177",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Prevent"
+   "Subcategory": "Basic",
+   "English": "Prevent",
+   "Chinese": "防止",
+   "Pinyin": "fáng zhǐ",
+   "Myanmar": "ကာကွယ်သည်"
  },
  {
-   "No.": 178,
+   "No": "178",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Pull"
+   "Subcategory": "Basic",
+   "English": "Pull",
+   "Chinese": "拉",
+   "Pinyin": "lā",
+   "Myanmar": "ဆွဲသည်"
  },
  {
-   "No.": 179,
+   "No": "179",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Push"
+   "Subcategory": "Basic",
+   "English": "Push",
+   "Chinese": "推",
+   "Pinyin": "tuī",
+   "Myanmar": "တွန်းသည်"
  },
  {
-   "No.": 180,
+   "No": "180",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Receive"
+   "Subcategory": "Basic",
+   "English": "Receive",
+   "Chinese": "收到 或 接",
+   "Pinyin": "shōu dào / jiē",
+   "Myanmar": "လက်ခံသည်"
  },
  {
-   "No.": 181,
+   "No": "181",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Repair"
+   "Subcategory": "Basic",
+   "English": "Repair",
+   "Chinese": "修理",
+   "Pinyin": "xiū lǐ",
+   "Myanmar": "ပြင်သည်"
  },
  {
-   "No.": 182,
+   "No": "182",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Replace"
+   "Subcategory": "Basic",
+   "English": "Replace",
+   "Chinese": "更换",
+   "Pinyin": "gēng huàn",
+   "Myanmar": "အစားထိုးသည်"
  },
  {
-   "No.": 183,
+   "No": "183",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Reply"
+   "Subcategory": "Basic",
+   "English": "Reply",
+   "Chinese": "回答 或 回复",
+   "Pinyin": "huí dá / huí fù",
+   "Myanmar": "ပြန်ဖြေသည်"
  },
  {
-   "No.": 184,
+   "No": "184",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Scold"
+   "Subcategory": "Basic",
+   "English": "Scold",
+   "Chinese": "骂",
+   "Pinyin": "mà",
+   "Myanmar": "ဆူသည် / ဆဲသည်"
  },
  {
-   "No.": 185,
+   "No": "185",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "See"
+   "Subcategory": "Basic",
+   "English": "See",
+   "Chinese": "看见",
+   "Pinyin": "kàn jiàn",
+   "Myanmar": "မြင်သည်"
  },
  {
-   "No.": 186,
+   "No": "186",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Separate"
+   "Subcategory": "Basic",
+   "English": "Separate",
+   "Chinese": "分开",
+   "Pinyin": "fēn kāi",
+   "Myanmar": "ခွဲသည်"
  },
  {
-   "No.": 187,
+   "No": "187",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Sit"
+   "Subcategory": "Basic",
+   "English": "Sit",
+   "Chinese": "坐",
+   "Pinyin": "zuò",
+   "Myanmar": "ထိုင်သည်"
  },
  {
-   "No.": 188,
+   "No": "188",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Smell"
+   "Subcategory": "Basic",
+   "English": "Smell",
+   "Chinese": "闻",
+   "Pinyin": "wén",
+   "Myanmar": "နံသည် / အနံ့ခံသည်"
  },
  {
-   "No.": 189,
+   "No": "189",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Snap"
+   "Subcategory": "Basic",
+   "English": "Snap",
+   "Chinese": "折断 或 啪地断",
+   "Pinyin": "zhé duàn / pā de duàn",
+   "Myanmar": "ချိုးကျိုးသည်"
  },
  {
-   "No.": 190,
+   "No": "190",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Sneeze"
+   "Subcategory": "Basic",
+   "English": "Sneeze",
+   "Chinese": "打喷嚏",
+   "Pinyin": "dǎ pēn tì",
+   "Myanmar": "နှာချေသည်"
  },
  {
-   "No.": 191,
+   "No": "191",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Sound"
+   "Subcategory": "Basic",
+   "English": "Sound",
+   "Chinese": "声音",
+   "Pinyin": "shēng yīn",
+   "Myanmar": "အသံ"
  },
  {
-   "No.": 192,
+   "No": "192",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Speak"
+   "Subcategory": "Basic",
+   "English": "Speak",
+   "Chinese": "说",
+   "Pinyin": "shuō",
+   "Myanmar": "ပြောသည်"
  },
  {
-   "No.": 193,
+   "No": "193",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Spoil"
+   "Subcategory": "Basic",
+   "English": "Spoil",
+   "Chinese": "弄坏",
+   "Pinyin": "nòng huài",
+   "Myanmar": "ပျက်စီးစေသည်"
  },
  {
-   "No.": 194,
+   "No": "194",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Stand"
+   "Subcategory": "Basic",
+   "English": "Stand",
+   "Chinese": "站",
+   "Pinyin": "zhàn",
+   "Myanmar": "ရပ်သည်"
  },
  {
-   "No.": 195,
+   "No": "195",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Start"
+   "Subcategory": "Basic",
+   "English": "Start",
+   "Chinese": "开始",
+   "Pinyin": "kāi shǐ",
+   "Myanmar": "စတင်သည်"
  },
  {
-   "No.": 196,
+   "No": "196",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Stay"
+   "Subcategory": "Basic",
+   "English": "Stay",
+   "Chinese": "留下 或 待着",
+   "Pinyin": "liú xià / dāi zhe",
+   "Myanmar": "နေသည်"
  },
  {
-   "No.": 197,
+   "No": "197",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Stop"
+   "Subcategory": "Basic",
+   "English": "Stop",
+   "Chinese": "停止",
+   "Pinyin": "tíng zhǐ",
+   "Myanmar": "ရပ်သည် / ရပ်လိုက်သည်"
  },
  {
-   "No.": 198,
+   "No": "198",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Store"
+   "Subcategory": "Basic",
+   "English": "Store",
+   "Chinese": "存放",
+   "Pinyin": "cún fàng",
+   "Myanmar": "သိမ်းဆည်းသည်"
  },
  {
-   "No.": 199,
+   "No": "199",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Straight"
+   "Subcategory": "Basic",
+   "English": "Straight",
+   "Chinese": "直",
+   "Pinyin": "zhí",
+   "Myanmar": "တည့်တည့်"
  },
  {
-   "No.": 200,
+   "No": "200",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Straighten"
+   "Subcategory": "Basic",
+   "English": "Straighten",
+   "Chinese": "弄直 或 整理好",
+   "Pinyin": "nòng zhí / zhěng lǐ hǎo",
+   "Myanmar": "တည့်အောင်လုပ်သည်"
  },
  {
-   "No.": 201,
+   "No": "201",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Swallow"
+   "Subcategory": "Basic",
+   "English": "Swallow",
+   "Chinese": "吞下",
+   "Pinyin": "tūn xià",
+   "Myanmar": "မျိုချသည်"
  },
  {
-   "No.": 202,
+   "No": "202",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Teach"
+   "Subcategory": "Basic",
+   "English": "Teach",
+   "Chinese": "教",
+   "Pinyin": "jiāo",
+   "Myanmar": "သင်ပေးသည်"
  },
  {
-   "No.": 203,
+   "No": "203",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Tear"
+   "Subcategory": "Basic",
+   "English": "Tear",
+   "Chinese": "撕",
+   "Pinyin": "sī",
+   "Myanmar": "ဆုတ်သည်"
  },
  {
-   "No.": 204,
+   "No": "204",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Telephone"
+   "Subcategory": "Basic",
+   "English": "Telephone",
+   "Chinese": "电话",
+   "Pinyin": "diàn huà",
+   "Myanmar": "တယ်လီဖုန်း / ဖုန်း"
  },
  {
-   "No.": 205,
+   "No": "205",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Tell"
+   "Subcategory": "Basic",
+   "English": "Tell",
+   "Chinese": "告诉",
+   "Pinyin": "gào sù",
+   "Myanmar": "ပြောပြသည်"
  },
  {
-   "No.": 206,
+   "No": "206",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Thank"
+   "Subcategory": "Basic",
+   "English": "Thank",
+   "Chinese": "谢谢",
+   "Pinyin": "xiè xie",
+   "Myanmar": "ကျေးဇူးတင်သည်"
  },
  {
-   "No.": 207,
+   "No": "207",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "They"
+   "Subcategory": "Basic",
+   "English": "They",
+   "Chinese": "他们 或 她们",
+   "Pinyin": "tā men / tā men",
+   "Myanmar": "သူတို့"
  },
  {
-   "No.": 208,
+   "No": "208",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Think"
+   "Subcategory": "Basic",
+   "English": "Think",
+   "Chinese": "想",
+   "Pinyin": "xiǎng",
+   "Myanmar": "စဉ်းစားသည်"
  },
  {
-   "No.": 209,
+   "No": "209",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Throw"
+   "Subcategory": "Basic",
+   "English": "Throw",
+   "Chinese": "扔",
+   "Pinyin": "rēng",
+   "Myanmar": "ပစ်သည်"
  },
  {
-   "No.": 210,
+   "No": "210",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Touch"
+   "Subcategory": "Basic",
+   "English": "Touch",
+   "Chinese": "摸",
+   "Pinyin": "mō",
+   "Myanmar": "ထိသည်"
  },
  {
-   "No.": 211,
+   "No": "211",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Try"
+   "Subcategory": "Basic",
+   "English": "Try",
+   "Chinese": "试",
+   "Pinyin": "shì",
+   "Myanmar": "ကြိုးစားသည် / စမ်းသည်"
  },
  {
-   "No.": 212,
+   "No": "212",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Turn"
+   "Subcategory": "Basic",
+   "English": "Turn",
+   "Chinese": "转",
+   "Pinyin": "zhuǎn",
+   "Myanmar": "လှည့်သည်"
  },
  {
-   "No.": 213,
+   "No": "213",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Understand"
+   "Subcategory": "Basic",
+   "English": "Understand",
+   "Chinese": "明白 或 懂",
+   "Pinyin": "míng bai / dǒng",
+   "Myanmar": "နားလည်သည်"
  },
  {
-   "No.": 214,
+   "No": "214",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Unlock"
+   "Subcategory": "Basic",
+   "English": "Unlock",
+   "Chinese": "开锁",
+   "Pinyin": "kāi suǒ",
+   "Myanmar": "သော့ဖွင့်သည်"
  },
  {
-   "No.": 215,
+   "No": "215",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Unpack"
+   "Subcategory": "Basic",
+   "English": "Unpack",
+   "Chinese": "打开行李 或 拆开",
+   "Pinyin": "dǎ kāi xíng li / chāi kāi",
+   "Myanmar": "အထုပ်ဖြည်သည်"
  },
  {
-   "No.": 216,
+   "No": "216",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Upset"
+   "Subcategory": "Basic",
+   "English": "Upset",
+   "Chinese": "难过 或 生气",
+   "Pinyin": "nán guò / shēng qì",
+   "Myanmar": "ဝမ်းနည်းသည် / စိတ်ဆိုးသည်"
  },
  {
-   "No.": 217,
+   "No": "217",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Use"
+   "Subcategory": "Basic",
+   "English": "Use",
+   "Chinese": "用",
+   "Pinyin": "yòng",
+   "Myanmar": "သုံးသည်"
  },
  {
-   "No.": 218,
+   "No": "218",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Walk"
+   "Subcategory": "Basic",
+   "English": "Walk",
+   "Chinese": "走路",
+   "Pinyin": "zǒu lù",
+   "Myanmar": "လမ်းလျှောက်သည်"
  },
  {
-   "No.": 219,
+   "No": "219",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Waste"
+   "Subcategory": "Basic",
+   "English": "Waste",
+   "Chinese": "浪费",
+   "Pinyin": "làng fèi",
+   "Myanmar": "ဖြုန်းတီးသည်"
  },
  {
-   "No.": 220,
+   "No": "220",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Watch"
+   "Subcategory": "Basic",
+   "English": "Watch",
+   "Chinese": "看",
+   "Pinyin": "kàn",
+   "Myanmar": "ကြည့်သည်"
  },
  {
-   "No.": 221,
+   "No": "221",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "We"
+   "Subcategory": "Basic",
+   "English": "We",
+   "Chinese": "我们",
+   "Pinyin": "wǒ men",
+   "Myanmar": "ကျွန်ုပ်တို့"
  },
  {
-   "No.": 222,
+   "No": "222",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Wear"
+   "Subcategory": "Basic",
+   "English": "Wear",
+   "Chinese": "穿",
+   "Pinyin": "chuān",
+   "Myanmar": "ဝတ်သည်"
  },
  {
-   "No.": 223,
+   "No": "223",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Welcome"
+   "Subcategory": "Basic",
+   "English": "Welcome",
+   "Chinese": "欢迎",
+   "Pinyin": "huān yíng",
+   "Myanmar": "ကြိုဆိုသည်"
  },
  {
-   "No.": 224,
+   "No": "224",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "What"
+   "Subcategory": "Basic",
+   "English": "What",
+   "Chinese": "什么",
+   "Pinyin": "shén me",
+   "Myanmar": "ဘာ"
  },
  {
-   "No.": 225,
+   "No": "225",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "When"
+   "Subcategory": "Basic",
+   "English": "When",
+   "Chinese": "什么时候",
+   "Pinyin": "shén me shí hòu",
+   "Myanmar": "ဘယ်အချိန်"
  },
  {
-   "No.": 226,
+   "No": "226",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Where"
+   "Subcategory": "Basic",
+   "English": "Where",
+   "Chinese": "哪里",
+   "Pinyin": "nǎ lǐ",
+   "Myanmar": "ဘယ်မှာ"
  },
  {
-   "No.": 227,
+   "No": "227",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Who"
+   "Subcategory": "Basic",
+   "English": "Who",
+   "Chinese": "谁",
+   "Pinyin": "shéi",
+   "Myanmar": "ဘယ်သူ"
  },
  {
-   "No.": 228,
+   "No": "228",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Why"
+   "Subcategory": "Basic",
+   "English": "Why",
+   "Chinese": "为什么",
+   "Pinyin": "wèi shén me",
+   "Myanmar": "ဘာကြောင့်"
  },
  {
-   "No.": 229,
+   "No": "229",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Yes"
+   "Subcategory": "Basic",
+   "English": "Yes",
+   "Chinese": "是 或 好",
+   "Pinyin": "shì / hǎo",
+   "Myanmar": "ဟုတ်ကဲ့"
  },
  {
-   "No.": 230,
+   "No": "230",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Be careful"
+   "Subcategory": "Basic",
+   "English": "Be careful",
+   "Chinese": "小心",
+   "Pinyin": "xiǎo xīn",
+   "Myanmar": "သတိထားပါ"
  },
  {
-   "No.": 231,
+   "No": "231",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Clean up"
+   "Subcategory": "Basic",
+   "English": "Clean up",
+   "Chinese": "清理 或 打扫干净",
+   "Pinyin": "qīng lǐ / dǎ sǎo gān jìng",
+   "Myanmar": "သန့်ရှင်းရေးလုပ်ပါ"
  },
  {
-   "No.": 232,
+   "No": "232",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Close door"
+   "Subcategory": "Basic",
+   "English": "Close door",
+   "Chinese": "关门",
+   "Pinyin": "guān mén",
+   "Myanmar": "တံခါးပိတ်ပါ"
  },
  {
-   "No.": 233,
+   "No": "233",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Come in"
+   "Subcategory": "Basic",
+   "English": "Come in",
+   "Chinese": "进来",
+   "Pinyin": "jìn lái",
+   "Myanmar": "ဝင်လာပါ"
  },
  {
-   "No.": 234,
+   "No": "234",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Don't touch"
+   "Subcategory": "Basic",
+   "English": "Don't touch",
+   "Chinese": "不要碰",
+   "Pinyin": "bú yào pèng",
+   "Myanmar": "မထိပါနဲ့"
  },
  {
-   "No.": 235,
+   "No": "235",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Go out"
+   "Subcategory": "Basic",
+   "English": "Go out",
+   "Chinese": "出去",
+   "Pinyin": "chū qù",
+   "Myanmar": "အပြင်ထွက်ပါ"
  },
  {
-   "No.": 236,
+   "No": "236",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Help me"
+   "Subcategory": "Basic",
+   "English": "Help me",
+   "Chinese": "帮帮我",
+   "Pinyin": "bāng bāng wǒ",
+   "Myanmar": "ကျွန်မကိုကူညီပါ"
  },
  {
-   "No.": 237,
+   "No": "237",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Hold tight"
+   "Subcategory": "Basic",
+   "English": "Hold tight",
+   "Chinese": "抓紧",
+   "Pinyin": "zhuā jǐn",
+   "Myanmar": "တင်းတင်းကိုင်ပါ"
  },
  {
-   "No.": 238,
+   "No": "238",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "I understand"
+   "Subcategory": "Basic",
+   "English": "I understand",
+   "Chinese": "我明白 或 我懂",
+   "Pinyin": "wǒ míng bai / wǒ dǒng",
+   "Myanmar": "နားလည်ပါပြီ"
  },
  {
-   "No.": 239,
+   "No": "239",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Not yet"
+   "Subcategory": "Basic",
+   "English": "Not yet",
+   "Chinese": "还没有",
+   "Pinyin": "hái méi yǒu",
+   "Myanmar": "မသေးဘူး"
  },
  {
-   "No.": 240,
+   "No": "240",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Open door"
+   "Subcategory": "Basic",
+   "English": "Open door",
+   "Chinese": "开门",
+   "Pinyin": "kāi mén",
+   "Myanmar": "တံခါးဖွင့်ပါ"
  },
  {
-   "No.": 241,
+   "No": "241",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Pick up"
+   "Subcategory": "Basic",
+   "English": "Pick up",
+   "Chinese": "捡起来 或 拿起来",
+   "Pinyin": "jiǎn qǐ lái / ná qǐ lái",
+   "Myanmar": "ကောက်ယူပါ / ယူလိုက်ပါ"
  },
  {
-   "No.": 242,
+   "No": "242",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Plug in"
+   "Subcategory": "Basic",
+   "English": "Plug in",
+   "Chinese": "插上",
+   "Pinyin": "chā shàng",
+   "Myanmar": "ပလပ်တပ်ပါ"
  },
  {
-   "No.": 243,
+   "No": "243",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Put away"
+   "Subcategory": "Basic",
+   "English": "Put away",
+   "Chinese": "放好 或 收起来",
+   "Pinyin": "fàng hǎo / shōu qǐ lái",
+   "Myanmar": "သိမ်းထားပါ"
  },
  {
-   "No.": 244,
+   "No": "244",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Thank you"
+   "Subcategory": "Basic",
+   "English": "Thank you",
+   "Chinese": "谢谢",
+   "Pinyin": "xiè xie",
+   "Myanmar": "ကျေးဇူးတင်ပါတယ်"
  },
  {
-   "No.": 245,
+   "No": "245",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Tidy up"
+   "Subcategory": "Basic",
+   "English": "Tidy up",
+   "Chinese": "整理",
+   "Pinyin": "zhěng lǐ",
+   "Myanmar": "စနစ်တကျသိမ်းဆည်းပါ"
  },
  {
-   "No.": 246,
+   "No": "246",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Turn off"
+   "Subcategory": "Basic",
+   "English": "Turn off",
+   "Chinese": "关掉",
+   "Pinyin": "guān diào",
+   "Myanmar": "ပိတ်လိုက်ပါ"
  },
  {
-   "No.": 247,
+   "No": "247",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Turn on"
+   "Subcategory": "Basic",
+   "English": "Turn on",
+   "Chinese": "打开",
+   "Pinyin": "dǎ kāi",
+   "Myanmar": "ဖွင့်လိုက်ပါ"
  },
  {
-   "No.": 248,
+   "No": "248",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Break / Broken"
+   "Subcategory": "Basic",
+   "English": "Break",
+   "Chinese": "打破 或 坏了",
+   "Pinyin": "dǎ pò / huài le",
+   "Myanmar": "ချိုးဖျက်သည် / ပျက်သွားပြီ"
  },
  {
-   "No.": 249,
+   "No": "249",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Danger / Warning"
+   "Subcategory": "Basic",
+   "English": "Danger or Warning",
+   "Chinese": "危险 或 小心",
+   "Pinyin": "wēi xiǎn / xiǎo xīn",
+   "Myanmar": "အန္တရာယ် / သတိ"
  },
  {
-   "No.": 250,
+   "No": "250",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Drop / Fall"
+   "Subcategory": "Basic",
+   "English": "Drop or Fall",
+   "Chinese": "掉下 或 跌倒",
+   "Pinyin": "diào xià / diē dǎo",
+   "Myanmar": "ကျသည် / လဲကျသည်"
  },
  {
-   "No.": 251,
+   "No": "251",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Finish / Done"
+   "Subcategory": "Basic",
+   "English": "Finish Done",
+   "Chinese": "做完了 或 好了",
+   "Pinyin": "zuò wán le / hǎo le",
+   "Myanmar": "ပြီးပြီ"
  },
  {
-   "No.": 252,
-   "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "I don't understand"
+   "No": "252;General;Basic;I don't understand;我不明白或\n我听不懂;wǒ bù míng bai/\nwǒ tīng bù dǒng;နားမလည်ဘူး",
+   "Category": "",
+   "Subcategory": "",
+   "English": "",
+   "Chinese": "",
+   "Pinyin": "",
+   "Myanmar": ""
  },
  {
-   "No.": 253,
+   "No": "253",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Lift / Raise"
+   "Subcategory": "Basic",
+   "English": "Lift or Raise",
+   "Chinese": "抬起 或 举起",
+   "Pinyin": "tái qǐ / jǔ qǐ",
+   "Myanmar": "မ / မြှောက်ပါ"
  },
  {
-   "No.": 254,
+   "No": "254",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Please say again"
+   "Subcategory": "Basic",
+   "English": "Please say again",
+   "Chinese": "请再说一遍",
+   "Pinyin": "qǐng zài shuō yí biàn",
+   "Myanmar": "ထပ်ပြောပေးပါ"
  },
  {
-   "No.": 255,
+   "No": "255",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Put / Place"
+   "Subcategory": "Basic",
+   "English": "Put or Place",
+   "Chinese": "放",
+   "Pinyin": "fàng",
+   "Myanmar": "ထားပါ"
  },
  {
-   "No.": 256,
+   "No": "256",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Take / Bring"
+   "Subcategory": "Basic",
+   "English": "Take or Bring",
+   "Chinese": "拿 或 带来",
+   "Pinyin": "ná / dài lái",
+   "Myanmar": "ယူပါ / ယူလာပါ"
  },
  {
-   "No.": 257,
+   "No": "257",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Wait a minute"
+   "Subcategory": "Basic",
+   "English": "Wait a minute",
+   "Chinese": "等一下",
+   "Pinyin": "děng yí xià",
+   "Myanmar": "ခဏစောင့်ပါ"
  },
  {
-   "No.": 258,
+   "No": "258",
    "Category": "General",
-   "Sub-Category": "Basic Words",
-   "Words": "Sorry / Excuse me"
+   "Subcategory": "Basic",
+   "English": "Sorry or Excuse me",
+   "Chinese": "对不起 或 不好意思",
+   "Pinyin": "duì bu qǐ / bù hǎo yì si",
+   "Myanmar": "တောင်းပန်ပါတယ် / ခွင့်လွှတ်ပါ"
  },
  {
-   "No.": 259,
+   "No": "259",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Morning"
+   "Subcategory": "Time",
+   "English": "Morning",
+   "Chinese": "早上",
+   "Pinyin": "zǎo shang",
+   "Myanmar": "မနက်"
  },
  {
-   "No.": 260,
+   "No": "260",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Afternoon"
+   "Subcategory": "Time",
+   "English": "Afternoon",
+   "Chinese": "下午",
+   "Pinyin": "xià wǔ",
+   "Myanmar": "နေ့လယ် / မွန်းလွဲ"
  },
  {
-   "No.": 261,
+   "No": "261",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Night"
+   "Subcategory": "Time",
+   "English": "Night",
+   "Chinese": "晚上",
+   "Pinyin": "wǎn shang",
+   "Myanmar": "ည"
  },
  {
-   "No.": 262,
+   "No": "262",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Supper"
+   "Subcategory": "Time",
+   "English": "Supper",
+   "Chinese": "夜宵",
+   "Pinyin": "yè xiāo",
+   "Myanmar": "ညဉ့်နက်စာ"
  },
  {
-   "No.": 263,
+   "No": "263",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Last Week"
+   "Subcategory": "Time",
+   "English": "Last Week",
+   "Chinese": "上个星期",
+   "Pinyin": "shàng gè xīng qī",
+   "Myanmar": "ပြီးခဲ့တဲ့အပတ်"
  },
  {
-   "No.": 264,
+   "No": "264",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Yesterday"
+   "Subcategory": "Time",
+   "English": "Yesterday",
+   "Chinese": "昨天",
+   "Pinyin": "zuó tiān",
+   "Myanmar": "မနေ့က"
  },
  {
-   "No.": 265,
+   "No": "265",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Today"
+   "Subcategory": "Time",
+   "English": "Today",
+   "Chinese": "今天",
+   "Pinyin": "jīn tiān",
+   "Myanmar": "ဒီနေ့"
  },
  {
-   "No.": 266,
+   "No": "266",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Tomorrow"
+   "Subcategory": "Time",
+   "English": "Tomorrow",
+   "Chinese": "明天",
+   "Pinyin": "míng tiān",
+   "Myanmar": "မနက်ဖြန်"
  },
  {
-   "No.": 267,
+   "No": "267",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Weekend"
+   "Subcategory": "Time",
+   "English": "Weekend",
+   "Chinese": "周末",
+   "Pinyin": "zhōu mò",
+   "Myanmar": "စနေတနင်္ဂနွေ / ပိတ်ရက်"
  },
  {
-   "No.": 268,
+   "No": "268",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Next Week"
+   "Subcategory": "Time",
+   "English": "Next Week",
+   "Chinese": "下个星期",
+   "Pinyin": "xià gè xīng qī",
+   "Myanmar": "နောက်အပတ်"
  },
  {
-   "No.": 269,
+   "No": "269",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Holiday"
+   "Subcategory": "Time",
+   "English": "Holiday",
+   "Chinese": "假期",
+   "Pinyin": "jià qī",
+   "Myanmar": "အားလပ်ရက်"
  },
  {
-   "No.": 270,
+   "No": "270",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Minute"
+   "Subcategory": "Time",
+   "English": "Minute",
+   "Chinese": "分钟",
+   "Pinyin": "fēn zhōng",
+   "Myanmar": "မိနစ်"
  },
  {
-   "No.": 271,
+   "No": "271",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Day"
+   "Subcategory": "Time",
+   "English": "Day",
+   "Chinese": "天 或 日",
+   "Pinyin": "tiān / rì",
+   "Myanmar": "နေ့"
  },
  {
-   "No.": 272,
+   "No": "272",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Month"
+   "Subcategory": "Time",
+   "English": "Month",
+   "Chinese": "月",
+   "Pinyin": "yuè",
+   "Myanmar": "လ"
  },
  {
-   "No.": 273,
+   "No": "273",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Early"
+   "Subcategory": "Time",
+   "English": "Early",
+   "Chinese": "早",
+   "Pinyin": "zǎo",
+   "Myanmar": "စော"
  },
  {
-   "No.": 274,
+   "No": "274",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Now"
+   "Subcategory": "Time",
+   "English": "Now",
+   "Chinese": "现在",
+   "Pinyin": "xiàn zài",
+   "Myanmar": "အခု"
  },
  {
-   "No.": 275,
+   "No": "275",
    "Category": "General",
-   "Sub-Category": "Time",
-   "Words": "Late"
+   "Subcategory": "Time",
+   "English": "Late",
+   "Chinese": "晚",
+   "Pinyin": "wǎn",
+   "Myanmar": "နောက်ကျ"
  },
  {
-   "No.": 276,
+   "No": "276",
    "Category": "General",
-   "Sub-Category": "Routine",
-   "Words": "Hurry"
+   "Subcategory": "Routine",
+   "English": "Hurry",
+   "Chinese": "快点",
+   "Pinyin": "kuài diǎn",
+   "Myanmar": "မြန်မြန်လုပ်ပါ"
  },
  {
-   "No.": 277,
+   "No": "277",
    "Category": "General",
-   "Sub-Category": "Routine",
-   "Words": "Read"
+   "Subcategory": "Routine",
+   "English": "Read",
+   "Chinese": "读",
+   "Pinyin": "dú",
+   "Myanmar": "ဖတ်သည်"
  },
  {
-   "No.": 278,
+   "No": "278",
    "Category": "General",
-   "Sub-Category": "Routine",
-   "Words": "Rest"
+   "Subcategory": "Routine",
+   "English": "Rest",
+   "Chinese": "休息",
+   "Pinyin": "xiū xi",
+   "Myanmar": "အနားယူသည်"
  },
  {
-   "No.": 279,
+   "No": "279",
    "Category": "General",
-   "Sub-Category": "Routine",
-   "Words": "Sleep"
+   "Subcategory": "Routine",
+   "English": "Sleep",
+   "Chinese": "睡觉",
+   "Pinyin": "shuì jiào",
+   "Myanmar": "အိပ်သည်"
  },
  {
-   "No.": 280,
+   "No": "280",
    "Category": "General",
-   "Sub-Category": "Routine",
-   "Words": "Study"
+   "Subcategory": "Routine",
+   "English": "Study",
+   "Chinese": "学习",
+   "Pinyin": "xué xí",
+   "Myanmar": "လေ့လာသည်"
  },
  {
-   "No.": 281,
+   "No": "281",
    "Category": "General",
-   "Sub-Category": "Routine",
-   "Words": "Talk"
+   "Subcategory": "Routine",
+   "English": "Talk",
+   "Chinese": "说话",
+   "Pinyin": "shuō huà",
+   "Myanmar": "စကားပြောသည်"
  },
  {
-   "No.": 282,
+   "No": "282",
    "Category": "General",
-   "Sub-Category": "Routine",
-   "Words": "Write"
+   "Subcategory": "Routine",
+   "English": "Write",
+   "Chinese": "写",
+   "Pinyin": "xiě",
+   "Myanmar": "ရေးသည်"
  },
  {
-   "No.": 283,
+   "No": "283",
    "Category": "General",
-   "Sub-Category": "Routine",
-   "Words": "Wake up"
+   "Subcategory": "Routine",
+   "English": "Wake up",
+   "Chinese": "起床",
+   "Pinyin": "qǐ chuáng",
+   "Myanmar": "အိပ်ရာထသည်"
  }
 ]
