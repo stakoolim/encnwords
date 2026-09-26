@@ -1,0 +1,1700 @@
+[
+ {
+   "No.": 1,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Close"
+ },
+ {
+   "No.": 2,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Have"
+ },
+ {
+   "No.": 3,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Don't Have"
+ },
+ {
+   "No.": 4,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Water"
+ },
+ {
+   "No.": 5,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Boil Water"
+ },
+ {
+   "No.": 6,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Hot Water"
+ },
+ {
+   "No.": 7,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Warm Water"
+ },
+ {
+   "No.": 8,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Cold Water"
+ },
+ {
+   "No.": 9,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Pour Water"
+ },
+ {
+   "No.": 10,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Bread"
+ },
+ {
+   "No.": 11,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Rice"
+ },
+ {
+   "No.": 12,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Noodle"
+ },
+ {
+   "No.": 13,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Cup"
+ },
+ {
+   "No.": 14,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Wash"
+ },
+ {
+   "No.": 15,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Wait"
+ },
+ {
+   "No.": 16,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Eat"
+ },
+ {
+   "No.": 17,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Want"
+ },
+ {
+   "No.": 18,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Don’t Want"
+ },
+ {
+   "No.": 19,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Take"
+ },
+ {
+   "No.": 20,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Put"
+ },
+ {
+   "No.": 21,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Come"
+ },
+ {
+   "No.": 22,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Go"
+ },
+ {
+   "No.": 23,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Table"
+ },
+ {
+   "No.": 24,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Chair"
+ },
+ {
+   "No.": 25,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "I / Me"
+ },
+ {
+   "No.": 26,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "You"
+ },
+ {
+   "No.": 27,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "I Know"
+ },
+ {
+   "No.": 28,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "I Don't Know"
+ },
+ {
+   "No.": 29,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "I Want"
+ },
+ {
+   "No.": 30,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "I Don’t Want"
+ },
+ {
+   "No.": 31,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Here"
+ },
+ {
+   "No.": 32,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "There"
+ },
+ {
+   "No.": 33,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Fried Rice"
+ },
+ {
+   "No.": 34,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Fried Noodle"
+ },
+ {
+   "No.": 35,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Breakfast"
+ },
+ {
+   "No.": 36,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Lunch"
+ },
+ {
+   "No.": 37,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Dinner"
+ },
+ {
+   "No.": 38,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Cut"
+ },
+ {
+   "No.": 39,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Small"
+ },
+ {
+   "No.": 40,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Big"
+ },
+ {
+   "No.": 41,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Plate"
+ },
+ {
+   "No.": 42,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Bowl"
+ },
+ {
+   "No.": 43,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Big Bowl"
+ },
+ {
+   "No.": 44,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Small Bowl"
+ },
+ {
+   "No.": 45,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Give Me"
+ },
+ {
+   "No.": 46,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Spoon"
+ },
+ {
+   "No.": 47,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Fork"
+ },
+ {
+   "No.": 48,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Chopstick"
+ },
+ {
+   "No.": 49,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Floor"
+ },
+ {
+   "No.": 50,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Floor Cloth"
+ },
+ {
+   "No.": 51,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Table Cloth"
+ },
+ {
+   "No.": 52,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Slipper"
+ },
+ {
+   "No.": 53,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Vegetable"
+ },
+ {
+   "No.": 54,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Fry Vegetable"
+ },
+ {
+   "No.": 55,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Sweet Corn"
+ },
+ {
+   "No.": 56,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Carrot"
+ },
+ {
+   "No.": 57,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Meat"
+ },
+ {
+   "No.": 58,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Chicken Leg"
+ },
+ {
+   "No.": 59,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Pork Belly"
+ },
+ {
+   "No.": 60,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Pork Ribs"
+ },
+ {
+   "No.": 61,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Cook Rice"
+ },
+ {
+   "No.": 62,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Cook Soup"
+ },
+ {
+   "No.": 63,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "On Electricity"
+ },
+ {
+   "No.": 64,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Off Electricity"
+ },
+ {
+   "No.": 65,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Washing Machine"
+ },
+ {
+   "No.": 66,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Rice Cooker"
+ },
+ {
+   "No.": 67,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Kettle"
+ },
+ {
+   "No.": 68,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Refrigerator"
+ },
+ {
+   "No.": 69,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Wipe Floor"
+ },
+ {
+   "No.": 70,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Sweep Floor"
+ },
+ {
+   "No.": 71,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Mop Floor"
+ },
+ {
+   "No.": 72,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Rubbish"
+ },
+ {
+   "No.": 73,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Dirty"
+ },
+ {
+   "No.": 74,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Smelly"
+ },
+ {
+   "No.": 75,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Toilet"
+ },
+ {
+   "No.": 76,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Kitchen"
+ },
+ {
+   "No.": 77,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Bedroom"
+ },
+ {
+   "No.": 78,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Living Room"
+ },
+ {
+   "No.": 79,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Black"
+ },
+ {
+   "No.": 80,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Blue"
+ },
+ {
+   "No.": 81,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Brown"
+ },
+ {
+   "No.": 82,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Gold"
+ },
+ {
+   "No.": 83,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Green"
+ },
+ {
+   "No.": 84,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Grey"
+ },
+ {
+   "No.": 85,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Orange"
+ },
+ {
+   "No.": 86,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Pink"
+ },
+ {
+   "No.": 87,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Purple"
+ },
+ {
+   "No.": 88,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Red"
+ },
+ {
+   "No.": 89,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Silver"
+ },
+ {
+   "No.": 90,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "White"
+ },
+ {
+   "No.": 91,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Yellow"
+ },
+ {
+   "No.": 92,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "1"
+ },
+ {
+   "No.": 93,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "2"
+ },
+ {
+   "No.": 94,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "3"
+ },
+ {
+   "No.": 95,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "4"
+ },
+ {
+   "No.": 96,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "5"
+ },
+ {
+   "No.": 97,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "6"
+ },
+ {
+   "No.": 98,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "7"
+ },
+ {
+   "No.": 99,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "8"
+ },
+ {
+   "No.": 100,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "9"
+ },
+ {
+   "No.": 101,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "10"
+ },
+ {
+   "No.": 102,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "11"
+ },
+ {
+   "No.": 103,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "12"
+ },
+ {
+   "No.": 104,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "13"
+ },
+ {
+   "No.": 105,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "14"
+ },
+ {
+   "No.": 106,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "15"
+ },
+ {
+   "No.": 107,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "16"
+ },
+ {
+   "No.": 108,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "17"
+ },
+ {
+   "No.": 109,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "18"
+ },
+ {
+   "No.": 110,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "19"
+ },
+ {
+   "No.": 111,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "20"
+ },
+ {
+   "No.": 112,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "30"
+ },
+ {
+   "No.": 113,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "40"
+ },
+ {
+   "No.": 114,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "50"
+ },
+ {
+   "No.": 115,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "60"
+ },
+ {
+   "No.": 116,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "70"
+ },
+ {
+   "No.": 117,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "80"
+ },
+ {
+   "No.": 118,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "90"
+ },
+ {
+   "No.": 119,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "100"
+ },
+ {
+   "No.": 120,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Monday"
+ },
+ {
+   "No.": 121,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Tuesday"
+ },
+ {
+   "No.": 122,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Wednesday"
+ },
+ {
+   "No.": 123,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Thursday"
+ },
+ {
+   "No.": 124,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Friday"
+ },
+ {
+   "No.": 125,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Saturday"
+ },
+ {
+   "No.": 126,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "Sunday"
+ },
+ {
+   "No.": 127,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "January"
+ },
+ {
+   "No.": 128,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "February"
+ },
+ {
+   "No.": 129,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "March"
+ },
+ {
+   "No.": 130,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "April"
+ },
+ {
+   "No.": 131,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "May"
+ },
+ {
+   "No.": 132,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "June"
+ },
+ {
+   "No.": 133,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "July"
+ },
+ {
+   "No.": 134,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "August"
+ },
+ {
+   "No.": 135,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "September"
+ },
+ {
+   "No.": 136,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "October"
+ },
+ {
+   "No.": 137,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "November"
+ },
+ {
+   "No.": 138,
+   "Category": "General",
+   "Sub-Category": "Basic",
+   "Words": "December"
+ },
+ {
+   "No.": 139,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Arrange"
+ },
+ {
+   "No.": 140,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Ask"
+ },
+ {
+   "No.": 141,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Bathe"
+ },
+ {
+   "No.": 142,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Bring"
+ },
+ {
+   "No.": 143,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Call"
+ },
+ {
+   "No.": 144,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Carry"
+ },
+ {
+   "No.": 145,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Change"
+ },
+ {
+   "No.": 146,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Check"
+ },
+ {
+   "No.": 147,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Continue"
+ },
+ {
+   "No.": 148,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Correct"
+ },
+ {
+   "No.": 149,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Deliver"
+ },
+ {
+   "No.": 150,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Drop"
+ },
+ {
+   "No.": 151,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Fetch"
+ },
+ {
+   "No.": 152,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Fill"
+ },
+ {
+   "No.": 153,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Find"
+ },
+ {
+   "No.": 154,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Give"
+ },
+ {
+   "No.": 155,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Help"
+ },
+ {
+   "No.": 156,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Hold"
+ },
+ {
+   "No.": 157,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "How"
+ },
+ {
+   "No.": 158,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Increase"
+ },
+ {
+   "No.": 159,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Inside"
+ },
+ {
+   "No.": 160,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Keep"
+ },
+ {
+   "No.": 161,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Kneel"
+ },
+ {
+   "No.": 162,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Knock"
+ },
+ {
+   "No.": 163,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Leave"
+ },
+ {
+   "No.": 164,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Left"
+ },
+ {
+   "No.": 165,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Lift"
+ },
+ {
+   "No.": 166,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Like"
+ },
+ {
+   "No.": 167,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Listen"
+ },
+ {
+   "No.": 168,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Lock"
+ },
+ {
+   "No.": 169,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Look"
+ },
+ {
+   "No.": 170,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Lose"
+ },
+ {
+   "No.": 171,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Near"
+ },
+ {
+   "No.": 172,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Need"
+ },
+ {
+   "No.": 173,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "No"
+ },
+ {
+   "No.": 174,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Open"
+ },
+ {
+   "No.": 175,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Outside"
+ },
+ {
+   "No.": 176,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Prepare"
+ },
+ {
+   "No.": 177,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Prevent"
+ },
+ {
+   "No.": 178,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Pull"
+ },
+ {
+   "No.": 179,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Push"
+ },
+ {
+   "No.": 180,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Receive"
+ },
+ {
+   "No.": 181,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Repair"
+ },
+ {
+   "No.": 182,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Replace"
+ },
+ {
+   "No.": 183,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Reply"
+ },
+ {
+   "No.": 184,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Scold"
+ },
+ {
+   "No.": 185,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "See"
+ },
+ {
+   "No.": 186,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Separate"
+ },
+ {
+   "No.": 187,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Sit"
+ },
+ {
+   "No.": 188,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Smell"
+ },
+ {
+   "No.": 189,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Snap"
+ },
+ {
+   "No.": 190,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Sneeze"
+ },
+ {
+   "No.": 191,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Sound"
+ },
+ {
+   "No.": 192,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Speak"
+ },
+ {
+   "No.": 193,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Spoil"
+ },
+ {
+   "No.": 194,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Stand"
+ },
+ {
+   "No.": 195,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Start"
+ },
+ {
+   "No.": 196,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Stay"
+ },
+ {
+   "No.": 197,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Stop"
+ },
+ {
+   "No.": 198,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Store"
+ },
+ {
+   "No.": 199,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Straight"
+ },
+ {
+   "No.": 200,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Straighten"
+ },
+ {
+   "No.": 201,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Swallow"
+ },
+ {
+   "No.": 202,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Teach"
+ },
+ {
+   "No.": 203,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Tear"
+ },
+ {
+   "No.": 204,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Telephone"
+ },
+ {
+   "No.": 205,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Tell"
+ },
+ {
+   "No.": 206,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Thank"
+ },
+ {
+   "No.": 207,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "They"
+ },
+ {
+   "No.": 208,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Think"
+ },
+ {
+   "No.": 209,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Throw"
+ },
+ {
+   "No.": 210,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Touch"
+ },
+ {
+   "No.": 211,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Try"
+ },
+ {
+   "No.": 212,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Turn"
+ },
+ {
+   "No.": 213,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Understand"
+ },
+ {
+   "No.": 214,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Unlock"
+ },
+ {
+   "No.": 215,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Unpack"
+ },
+ {
+   "No.": 216,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Upset"
+ },
+ {
+   "No.": 217,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Use"
+ },
+ {
+   "No.": 218,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Walk"
+ },
+ {
+   "No.": 219,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Waste"
+ },
+ {
+   "No.": 220,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Watch"
+ },
+ {
+   "No.": 221,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "We"
+ },
+ {
+   "No.": 222,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Wear"
+ },
+ {
+   "No.": 223,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Welcome"
+ },
+ {
+   "No.": 224,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "What"
+ },
+ {
+   "No.": 225,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "When"
+ },
+ {
+   "No.": 226,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Where"
+ },
+ {
+   "No.": 227,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Who"
+ },
+ {
+   "No.": 228,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Why"
+ },
+ {
+   "No.": 229,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Yes"
+ },
+ {
+   "No.": 230,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Be careful"
+ },
+ {
+   "No.": 231,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Clean up"
+ },
+ {
+   "No.": 232,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Close door"
+ },
+ {
+   "No.": 233,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Come in"
+ },
+ {
+   "No.": 234,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Don't touch"
+ },
+ {
+   "No.": 235,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Go out"
+ },
+ {
+   "No.": 236,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Help me"
+ },
+ {
+   "No.": 237,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Hold tight"
+ },
+ {
+   "No.": 238,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "I understand"
+ },
+ {
+   "No.": 239,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Not yet"
+ },
+ {
+   "No.": 240,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Open door"
+ },
+ {
+   "No.": 241,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Pick up"
+ },
+ {
+   "No.": 242,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Plug in"
+ },
+ {
+   "No.": 243,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Put away"
+ },
+ {
+   "No.": 244,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Thank you"
+ },
+ {
+   "No.": 245,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Tidy up"
+ },
+ {
+   "No.": 246,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Turn off"
+ },
+ {
+   "No.": 247,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Turn on"
+ },
+ {
+   "No.": 248,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Break / Broken"
+ },
+ {
+   "No.": 249,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Danger / Warning"
+ },
+ {
+   "No.": 250,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Drop / Fall"
+ },
+ {
+   "No.": 251,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Finish / Done"
+ },
+ {
+   "No.": 252,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "I don't understand"
+ },
+ {
+   "No.": 253,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Lift / Raise"
+ },
+ {
+   "No.": 254,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Please say again"
+ },
+ {
+   "No.": 255,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Put / Place"
+ },
+ {
+   "No.": 256,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Take / Bring"
+ },
+ {
+   "No.": 257,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Wait a minute"
+ },
+ {
+   "No.": 258,
+   "Category": "General",
+   "Sub-Category": "Basic Words",
+   "Words": "Sorry / Excuse me"
+ },
+ {
+   "No.": 259,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Morning"
+ },
+ {
+   "No.": 260,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Afternoon"
+ },
+ {
+   "No.": 261,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Night"
+ },
+ {
+   "No.": 262,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Supper"
+ },
+ {
+   "No.": 263,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Last Week"
+ },
+ {
+   "No.": 264,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Yesterday"
+ },
+ {
+   "No.": 265,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Today"
+ },
+ {
+   "No.": 266,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Tomorrow"
+ },
+ {
+   "No.": 267,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Weekend"
+ },
+ {
+   "No.": 268,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Next Week"
+ },
+ {
+   "No.": 269,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Holiday"
+ },
+ {
+   "No.": 270,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Minute"
+ },
+ {
+   "No.": 271,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Day"
+ },
+ {
+   "No.": 272,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Month"
+ },
+ {
+   "No.": 273,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Early"
+ },
+ {
+   "No.": 274,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Now"
+ },
+ {
+   "No.": 275,
+   "Category": "General",
+   "Sub-Category": "Time",
+   "Words": "Late"
+ },
+ {
+   "No.": 276,
+   "Category": "General",
+   "Sub-Category": "Routine",
+   "Words": "Hurry"
+ },
+ {
+   "No.": 277,
+   "Category": "General",
+   "Sub-Category": "Routine",
+   "Words": "Read"
+ },
+ {
+   "No.": 278,
+   "Category": "General",
+   "Sub-Category": "Routine",
+   "Words": "Rest"
+ },
+ {
+   "No.": 279,
+   "Category": "General",
+   "Sub-Category": "Routine",
+   "Words": "Sleep"
+ },
+ {
+   "No.": 280,
+   "Category": "General",
+   "Sub-Category": "Routine",
+   "Words": "Study"
+ },
+ {
+   "No.": 281,
+   "Category": "General",
+   "Sub-Category": "Routine",
+   "Words": "Talk"
+ },
+ {
+   "No.": 282,
+   "Category": "General",
+   "Sub-Category": "Routine",
+   "Words": "Write"
+ },
+ {
+   "No.": 283,
+   "Category": "General",
+   "Sub-Category": "Routine",
+   "Words": "Wake up"
+ }
+]
