@@ -1,0 +1,4002 @@
+[
+ {
+   "#": 1,
+   "English": "Hello",
+   "Japanese": "こんにちは",
+   "Romaji": "konnichiwa",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 2,
+   "English": "Good morning",
+   "Japanese": "おはようございます",
+   "Romaji": "ohayou gozaimasu",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 3,
+   "English": "Good evening",
+   "Japanese": "こんばんは",
+   "Romaji": "konbanwa",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 4,
+   "English": "Good night",
+   "Japanese": "おやすみなさい",
+   "Romaji": "oyasuminasai",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 5,
+   "English": "Goodbye",
+   "Japanese": "さようなら",
+   "Romaji": "sayounara",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 6,
+   "English": "See you later",
+   "Japanese": "またあとで",
+   "Romaji": "mata atode",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 7,
+   "English": "Nice to meet you",
+   "Japanese": "はじめまして",
+   "Romaji": "hajimemashite",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 8,
+   "English": "How are you?",
+   "Japanese": "お元気ですか",
+   "Romaji": "ogenki desu ka",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 9,
+   "English": "I am fine",
+   "Japanese": "元気です",
+   "Romaji": "genki desu",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 10,
+   "English": "Welcome",
+   "Japanese": "ようこそ",
+   "Romaji": "youkoso",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.1 Greetings"
+ },
+ {
+   "#": 11,
+   "English": "Please",
+   "Japanese": "お願いします",
+   "Romaji": "onegaishimasu",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 12,
+   "English": "Thank you",
+   "Japanese": "ありがとうございます",
+   "Romaji": "arigatou gozaimasu",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 13,
+   "English": "Thank you very much",
+   "Japanese": "どうもありがとうございます",
+   "Romaji": "doumo arigatou gozaimasu",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 14,
+   "English": "You’re welcome",
+   "Japanese": "どういたしまして",
+   "Romaji": "douitashimashite",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 15,
+   "English": "Excuse me",
+   "Japanese": "すみません",
+   "Romaji": "sumimasen",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 16,
+   "English": "Sorry",
+   "Japanese": "ごめんなさい",
+   "Romaji": "gomen nasai",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 17,
+   "English": "It’s okay",
+   "Japanese": "大丈夫です",
+   "Romaji": "daijoubu desu",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 18,
+   "English": "No problem",
+   "Japanese": "問題ありません",
+   "Romaji": "mondai arimasen",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 19,
+   "English": "Please wait",
+   "Japanese": "少々お待ちください",
+   "Romaji": "shoushou omachi kudasai",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 20,
+   "English": "After you",
+   "Japanese": "お先にどうぞ",
+   "Romaji": "osaki ni douzo",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.2 Courtesy"
+ },
+ {
+   "#": 21,
+   "English": "Yes",
+   "Japanese": "はい",
+   "Romaji": "hai",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 22,
+   "English": "No",
+   "Japanese": "いいえ",
+   "Romaji": "iie",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 23,
+   "English": "Okay",
+   "Japanese": "わかりました",
+   "Romaji": "wakarimashita",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 24,
+   "English": "I understand",
+   "Japanese": "わかります",
+   "Romaji": "wakarimasu",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 25,
+   "English": "I don’t understand",
+   "Japanese": "わかりません",
+   "Romaji": "wakarimasen",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 26,
+   "English": "Maybe",
+   "Japanese": "たぶん",
+   "Romaji": "tabun",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 27,
+   "English": "Of course",
+   "Japanese": "もちろん",
+   "Romaji": "mochiron",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 28,
+   "English": "Really?",
+   "Japanese": "本当ですか",
+   "Romaji": "hontou desu ka",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 29,
+   "English": "That’s good",
+   "Japanese": "いいですね",
+   "Romaji": "ii desu ne",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 30,
+   "English": "That’s too bad",
+   "Japanese": "それは残念です",
+   "Romaji": "sore wa zannen desu",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.3 Basic Responses"
+ },
+ {
+   "#": 31,
+   "English": "I’m sorry to bother you",
+   "Japanese": "お邪魔してすみません",
+   "Romaji": "ojama shite sumimasen",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 32,
+   "English": "May I ask a question?",
+   "Japanese": "質問してもいいですか",
+   "Romaji": "shitsumon shite mo ii desu ka",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 33,
+   "English": "Could you help me?",
+   "Japanese": "手伝っていただけますか",
+   "Romaji": "tetsudatte itadakemasu ka",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 34,
+   "English": "Could you say that again?",
+   "Japanese": "もう一度言っていただけますか",
+   "Romaji": "mou ichido itte itadakemasu ka",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 35,
+   "English": "Please speak slowly",
+   "Japanese": "ゆっくり話してください",
+   "Romaji": "yukkuri hanashite kudasai",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 36,
+   "English": "Please write it down",
+   "Japanese": "書いてください",
+   "Romaji": "kaite kudasai",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 37,
+   "English": "May I take a photo?",
+   "Japanese": "写真を撮ってもいいですか",
+   "Romaji": "shashin o totte mo ii desu ka",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 38,
+   "English": "Is it okay?",
+   "Japanese": "大丈夫ですか",
+   "Romaji": "daijoubu desu ka",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 39,
+   "English": "I’m in a hurry",
+   "Japanese": "急いでいます",
+   "Romaji": "isoide imasu",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 40,
+   "English": "Please be careful",
+   "Japanese": "気をつけてください",
+   "Romaji": "ki o tsukete kudasai",
+   "Category": "01 Manners & Politeness",
+   "Sub-Category": "1.4 Apology & Requests"
+ },
+ {
+   "#": 41,
+   "English": "My name is…",
+   "Japanese": "私の名前は…です",
+   "Romaji": "watashi no namae wa ... desu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 42,
+   "English": "I am from Singapore",
+   "Japanese": "シンガポールから来ました",
+   "Romaji": "Shingapooru kara kimashita",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 43,
+   "English": "I am a tourist",
+   "Japanese": "観光客です",
+   "Romaji": "kankoukyaku desu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 44,
+   "English": "I’m here on holiday",
+   "Japanese": "休暇で来ました",
+   "Romaji": "kyuuka de kimashita",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 45,
+   "English": "This is my first time in Japan",
+   "Japanese": "日本は初めてです",
+   "Romaji": "Nihon wa hajimete desu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 46,
+   "English": "I will stay for two weeks",
+   "Japanese": "2週間滞在します",
+   "Romaji": "ni shuukan taizai shimasu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 47,
+   "English": "I’m travelling with my family",
+   "Japanese": "家族と旅行しています",
+   "Romaji": "kazoku to ryokou shite imasu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 48,
+   "English": "I’m travelling with friends",
+   "Japanese": "友達と旅行しています",
+   "Romaji": "tomodachi to ryokou shite imasu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 49,
+   "English": "I’m travelling alone",
+   "Japanese": "一人旅です",
+   "Romaji": "hitoritabi desu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 50,
+   "English": "Nice weather today",
+   "Japanese": "今日はいい天気ですね",
+   "Romaji": "kyou wa ii tenki desu ne",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.1 Introductions"
+ },
+ {
+   "#": 51,
+   "English": "Where are you from?",
+   "Japanese": "どこから来ましたか",
+   "Romaji": "doko kara kimashita ka",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 52,
+   "English": "Do you speak English?",
+   "Japanese": "英語を話せますか",
+   "Romaji": "eigo o hanasemasu ka",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 53,
+   "English": "I speak a little Japanese",
+   "Japanese": "日本語を少し話せます",
+   "Romaji": "Nihongo o sukoshi hanasemasu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 54,
+   "English": "I don’t speak Japanese",
+   "Japanese": "日本語は話せません",
+   "Romaji": "Nihongo wa hanasemasen",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 55,
+   "English": "What do you recommend?",
+   "Japanese": "おすすめは何ですか",
+   "Romaji": "osusume wa nan desu ka",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 56,
+   "English": "Japan is beautiful",
+   "Japanese": "日本は美しいです",
+   "Romaji": "Nihon wa utsukushii desu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 57,
+   "English": "I like Japan",
+   "Japanese": "日本が好きです",
+   "Romaji": "Nihon ga suki desu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 58,
+   "English": "The food is delicious",
+   "Japanese": "食べ物がおいしいです",
+   "Romaji": "tabemono ga oishii desu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 59,
+   "English": "This place is famous",
+   "Japanese": "ここは有名です",
+   "Romaji": "koko wa yuumei desu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 60,
+   "English": "I’m enjoying my trip",
+   "Japanese": "旅行を楽しんでいます",
+   "Romaji": "ryokou o tanoshinde imasu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.2 Small Talk"
+ },
+ {
+   "#": 61,
+   "English": "Today",
+   "Japanese": "今日",
+   "Romaji": "kyou",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 62,
+   "English": "Tomorrow",
+   "Japanese": "明日",
+   "Romaji": "ashita",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 63,
+   "English": "Yesterday",
+   "Japanese": "昨日",
+   "Romaji": "kinou",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 64,
+   "English": "Morning",
+   "Japanese": "朝",
+   "Romaji": "asa",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 65,
+   "English": "Afternoon",
+   "Japanese": "午後",
+   "Romaji": "gogo",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 66,
+   "English": "Evening",
+   "Japanese": "夜",
+   "Romaji": "yoru",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 67,
+   "English": "What time is it?",
+   "Japanese": "今何時ですか",
+   "Romaji": "ima nanji desu ka",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 68,
+   "English": "At what time?",
+   "Japanese": "何時ですか",
+   "Romaji": "nanji desu ka",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 69,
+   "English": "I have a reservation at 7",
+   "Japanese": "7時に予約があります",
+   "Romaji": "shichi ji ni yoyaku ga arimasu",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 70,
+   "English": "Is it open today?",
+   "Japanese": "今日は開いていますか",
+   "Romaji": "kyou wa aite imasu ka",
+   "Category": "02 Normal Conversation",
+   "Sub-Category": "2.3 Time & Date"
+ },
+ {
+   "#": 71,
+   "English": "Airport",
+   "Japanese": "空港",
+   "Romaji": "kuukou",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 72,
+   "English": "Arrival",
+   "Japanese": "到着",
+   "Romaji": "touchaku",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 73,
+   "English": "Departure",
+   "Japanese": "出発",
+   "Romaji": "shuppatsu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 74,
+   "English": "Immigration",
+   "Japanese": "入国審査",
+   "Romaji": "nyuukoku shinsa",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 75,
+   "English": "Customs",
+   "Japanese": "税関",
+   "Romaji": "zeikan",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 76,
+   "English": "Baggage claim",
+   "Japanese": "手荷物受取所",
+   "Romaji": "temotsu uketorijo",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 77,
+   "English": "Where is the baggage claim?",
+   "Japanese": "手荷物受取所はどこですか",
+   "Romaji": "temotsu uketorijo wa doko desu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 78,
+   "English": "My luggage is missing",
+   "Japanese": "荷物が見つかりません",
+   "Romaji": "nimotsu ga mitsukarimasen",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 79,
+   "English": "I have nothing to declare",
+   "Japanese": "申告するものはありません",
+   "Romaji": "shinkoku suru mono wa arimasen",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 80,
+   "English": "Where is the airport train?",
+   "Japanese": "空港電車はどこですか",
+   "Romaji": "kuukou densha wa doko desu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.1 Airport"
+ },
+ {
+   "#": 81,
+   "English": "Train",
+   "Japanese": "電車",
+   "Romaji": "densha",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 82,
+   "English": "Subway / Metro",
+   "Japanese": "地下鉄",
+   "Romaji": "chikatetsu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 83,
+   "English": "Station",
+   "Japanese": "駅",
+   "Romaji": "eki",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 84,
+   "English": "Platform",
+   "Japanese": "ホーム",
+   "Romaji": "hoomu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 85,
+   "English": "Ticket gate",
+   "Japanese": "改札口",
+   "Romaji": "kaisatsuguchi",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 86,
+   "English": "Ticket machine",
+   "Japanese": "券売機",
+   "Romaji": "kenbaiki",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 87,
+   "English": "One-way ticket",
+   "Japanese": "片道切符",
+   "Romaji": "katamichi kippu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 88,
+   "English": "Round-trip ticket",
+   "Japanese": "往復切符",
+   "Romaji": "oufuku kippu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 89,
+   "English": "Which platform?",
+   "Japanese": "何番ホームですか",
+   "Romaji": "nanban hoomu desu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 90,
+   "English": "Does this train go to Tokyo?",
+   "Japanese": "この電車は東京へ行きますか",
+   "Romaji": "kono densha wa Toukyou e ikimasu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 91,
+   "English": "How many stops?",
+   "Japanese": "何駅ですか",
+   "Romaji": "nan-eki desu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 92,
+   "English": "I want to go to Shinjuku",
+   "Japanese": "新宿へ行きたいです",
+   "Romaji": "Shinjuku e ikitai desu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 93,
+   "English": "Where should I transfer?",
+   "Japanese": "どこで乗り換えますか",
+   "Romaji": "doko de norikaemasu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 94,
+   "English": "Last train",
+   "Japanese": "終電",
+   "Romaji": "shuuden",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 95,
+   "English": "First train",
+   "Japanese": "始発",
+   "Romaji": "shihatsu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 96,
+   "English": "Is this the express train?",
+   "Japanese": "これは急行ですか",
+   "Romaji": "kore wa kyuukou desu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 97,
+   "English": "Local train",
+   "Japanese": "普通電車",
+   "Romaji": "futsuu densha",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 98,
+   "English": "Reserved seat",
+   "Japanese": "指定席",
+   "Romaji": "shiteiseki",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 99,
+   "English": "Non-reserved seat",
+   "Japanese": "自由席",
+   "Romaji": "jiyuuseki",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 100,
+   "English": "I missed the train",
+   "Japanese": "電車に乗り遅れました",
+   "Romaji": "densha ni noriokuremashita",
+   "Category": "03 Transport",
+   "Sub-Category": "3.2 Train & Metro"
+ },
+ {
+   "#": 101,
+   "English": "Bullet train",
+   "Japanese": "新幹線",
+   "Romaji": "shinkansen",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 102,
+   "English": "I want a ticket to Kyoto",
+   "Japanese": "京都までの切符をください",
+   "Romaji": "Kyouto made no kippu o kudasai",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 103,
+   "English": "One adult ticket",
+   "Japanese": "大人1枚",
+   "Romaji": "otona ichimai",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 104,
+   "English": "Two adult tickets",
+   "Japanese": "大人2枚",
+   "Romaji": "otona nimai",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 105,
+   "English": "Window seat",
+   "Japanese": "窓側の席",
+   "Romaji": "madogawa no seki",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 106,
+   "English": "Aisle seat",
+   "Japanese": "通路側の席",
+   "Romaji": "tsuurogawa no seki",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 107,
+   "English": "What time does it depart?",
+   "Japanese": "何時に出発しますか",
+   "Romaji": "nanji ni shuppatsu shimasu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 108,
+   "English": "What time does it arrive?",
+   "Japanese": "何時に到着しますか",
+   "Romaji": "nanji ni touchaku shimasu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 109,
+   "English": "Is there a direct train?",
+   "Japanese": "直通電車はありますか",
+   "Romaji": "chokutsuu densha wa arimasu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 110,
+   "English": "I have a Japan Rail Pass",
+   "Japanese": "ジャパンレールパスを持っています",
+   "Romaji": "Japan Reeru Pasu o motte imasu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.3 Shinkansen"
+ },
+ {
+   "#": 111,
+   "English": "Bus",
+   "Japanese": "バス",
+   "Romaji": "basu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 112,
+   "English": "Bus stop",
+   "Japanese": "バス停",
+   "Romaji": "basu-tei",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 113,
+   "English": "Bus terminal",
+   "Japanese": "バスターミナル",
+   "Romaji": "basu taaminaru",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 114,
+   "English": "Does this bus go to the station?",
+   "Japanese": "このバスは駅へ行きますか",
+   "Romaji": "kono basu wa eki e ikimasu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 115,
+   "English": "Where do I get off?",
+   "Japanese": "どこで降りますか",
+   "Romaji": "doko de orimasu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 116,
+   "English": "Please tell me when to get off",
+   "Japanese": "降りる時に教えてください",
+   "Romaji": "oriru toki ni oshiete kudasai",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 117,
+   "English": "How much is the fare?",
+   "Japanese": "運賃はいくらですか",
+   "Romaji": "unchin wa ikura desu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 118,
+   "English": "I want to go to the museum",
+   "Japanese": "博物館へ行きたいです",
+   "Romaji": "hakubutsukan e ikitai desu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 119,
+   "English": "Night bus",
+   "Japanese": "夜行バス",
+   "Romaji": "yakou basu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 120,
+   "English": "Airport limousine bus",
+   "Japanese": "空港リムジンバス",
+   "Romaji": "kuukou rimujin basu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.4 Bus"
+ },
+ {
+   "#": 121,
+   "English": "Taxi",
+   "Japanese": "タクシー",
+   "Romaji": "takushii",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 122,
+   "English": "Taxi stand",
+   "Japanese": "タクシー乗り場",
+   "Romaji": "takushii noriba",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 123,
+   "English": "Please take me to this address",
+   "Japanese": "この住所までお願いします",
+   "Romaji": "kono juusho made onegaishimasu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 124,
+   "English": "Please use the meter",
+   "Japanese": "メーターを使ってください",
+   "Romaji": "meetaa o tsukatte kudasai",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 125,
+   "English": "How much will it cost?",
+   "Japanese": "だいたいいくらですか",
+   "Romaji": "daitai ikura desu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 126,
+   "English": "Please stop here",
+   "Japanese": "ここで止めてください",
+   "Romaji": "koko de tomete kudasai",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 127,
+   "English": "Please go to the hotel",
+   "Japanese": "ホテルまでお願いします",
+   "Romaji": "hoteru made onegaishimasu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 128,
+   "English": "I’m going to the airport",
+   "Japanese": "空港へ行きます",
+   "Romaji": "kuukou e ikimasu",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 129,
+   "English": "Can I pay by card?",
+   "Japanese": "カードで払えますか",
+   "Romaji": "kaado de haraemasu ka",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 130,
+   "English": "Please give me a receipt",
+   "Japanese": "領収書をください",
+   "Romaji": "ryoushuusho o kudasai",
+   "Category": "03 Transport",
+   "Sub-Category": "3.5 Taxi & Ride"
+ },
+ {
+   "#": 131,
+   "English": "Where is this place?",
+   "Japanese": "ここはどこですか",
+   "Romaji": "koko wa doko desu ka",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 132,
+   "English": "Where is the toilet?",
+   "Japanese": "トイレはどこですか",
+   "Romaji": "toire wa doko desu ka",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 133,
+   "English": "Where is the station?",
+   "Japanese": "駅はどこですか",
+   "Romaji": "eki wa doko desu ka",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 134,
+   "English": "Where is the exit?",
+   "Japanese": "出口はどこですか",
+   "Romaji": "deguchi wa doko desu ka",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 135,
+   "English": "Is it far?",
+   "Japanese": "遠いですか",
+   "Romaji": "tooi desu ka",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 136,
+   "English": "Is it nearby?",
+   "Japanese": "近いですか",
+   "Romaji": "chikai desu ka",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 137,
+   "English": "Can I walk there?",
+   "Japanese": "歩いて行けますか",
+   "Romaji": "aruite ikemasu ka",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 138,
+   "English": "How long does it take?",
+   "Japanese": "どのくらいかかりますか",
+   "Romaji": "dono kurai kakarimasu ka",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 139,
+   "English": "Please show me on the map",
+   "Japanese": "地図で示してください",
+   "Romaji": "chizu de shimeshite kudasai",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 140,
+   "English": "I am lost",
+   "Japanese": "道に迷いました",
+   "Romaji": "michi ni mayoimashita",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.1 Asking Directions"
+ },
+ {
+   "#": 141,
+   "English": "Left",
+   "Japanese": "左",
+   "Romaji": "hidari",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 142,
+   "English": "Right",
+   "Japanese": "右",
+   "Romaji": "migi",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 143,
+   "English": "Straight ahead",
+   "Japanese": "まっすぐ",
+   "Romaji": "massugu",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 144,
+   "English": "Turn left",
+   "Japanese": "左に曲がってください",
+   "Romaji": "hidari ni magatte kudasai",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 145,
+   "English": "Turn right",
+   "Japanese": "右に曲がってください",
+   "Romaji": "migi ni magatte kudasai",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 146,
+   "English": "Go back",
+   "Japanese": "戻ってください",
+   "Romaji": "modotte kudasai",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 147,
+   "English": "Across from",
+   "Japanese": "向かい",
+   "Romaji": "mukai",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 148,
+   "English": "Next to",
+   "Japanese": "隣",
+   "Romaji": "tonari",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 149,
+   "English": "Behind",
+   "Japanese": "後ろ",
+   "Romaji": "ushiro",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 150,
+   "English": "In front of",
+   "Japanese": "前",
+   "Romaji": "mae",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.2 Direction Words"
+ },
+ {
+   "#": 151,
+   "English": "Hotel",
+   "Japanese": "ホテル",
+   "Romaji": "hoteru",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 152,
+   "English": "Convenience store",
+   "Japanese": "コンビニ",
+   "Romaji": "konbini",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 153,
+   "English": "Pharmacy",
+   "Japanese": "薬局",
+   "Romaji": "yakkyoku",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 154,
+   "English": "Hospital",
+   "Japanese": "病院",
+   "Romaji": "byouin",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 155,
+   "English": "Police box",
+   "Japanese": "交番",
+   "Romaji": "kouban",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 156,
+   "English": "Bank",
+   "Japanese": "銀行",
+   "Romaji": "ginkou",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 157,
+   "English": "ATM",
+   "Japanese": "ATM",
+   "Romaji": "ei tii emu",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 158,
+   "English": "Post office",
+   "Japanese": "郵便局",
+   "Romaji": "yuubinkyoku",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 159,
+   "English": "Tourist information center",
+   "Japanese": "観光案内所",
+   "Romaji": "kankou annaijo",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 160,
+   "English": "Shopping mall",
+   "Japanese": "ショッピングモール",
+   "Romaji": "shoppingu mooru",
+   "Category": "04 Directions & Location",
+   "Sub-Category": "4.3 Places"
+ },
+ {
+   "#": 161,
+   "English": "I have a reservation",
+   "Japanese": "予約があります",
+   "Romaji": "yoyaku ga arimasu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 162,
+   "English": "My name is…",
+   "Japanese": "名前は…です",
+   "Romaji": "namae wa ... desu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 163,
+   "English": "I’d like to check in",
+   "Japanese": "チェックインをお願いします",
+   "Romaji": "chekkuin o onegaishimasu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 164,
+   "English": "I’d like to check out",
+   "Japanese": "チェックアウトをお願いします",
+   "Romaji": "chekkuauto o onegaishimasu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 165,
+   "English": "What time is check-in?",
+   "Japanese": "チェックインは何時ですか",
+   "Romaji": "chekkuin wa nanji desu ka",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 166,
+   "English": "What time is check-out?",
+   "Japanese": "チェックアウトは何時ですか",
+   "Romaji": "chekkuauto wa nanji desu ka",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 167,
+   "English": "Can I check in early?",
+   "Japanese": "早めにチェックインできますか",
+   "Romaji": "hayame ni chekkuin dekimasu ka",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 168,
+   "English": "Can I check out late?",
+   "Japanese": "レイトチェックアウトできますか",
+   "Romaji": "reito chekkuauto dekimasu ka",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 169,
+   "English": "May I leave my luggage here?",
+   "Japanese": "荷物を預けてもいいですか",
+   "Romaji": "nimotsu o azukete mo ii desu ka",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 170,
+   "English": "I booked online",
+   "Japanese": "オンラインで予約しました",
+   "Romaji": "onrain de yoyaku shimashita",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.1 Check-in & Check-out"
+ },
+ {
+   "#": 171,
+   "English": "Room key",
+   "Japanese": "ルームキー",
+   "Romaji": "ruumu kii",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 172,
+   "English": "Room number",
+   "Japanese": "部屋番号",
+   "Romaji": "heya bangou",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 173,
+   "English": "Single room",
+   "Japanese": "シングルルーム",
+   "Romaji": "shinguru ruumu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 174,
+   "English": "Double room",
+   "Japanese": "ダブルルーム",
+   "Romaji": "daburu ruumu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 175,
+   "English": "Twin room",
+   "Japanese": "ツインルーム",
+   "Romaji": "tsuin ruumu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 176,
+   "English": "Non-smoking room",
+   "Japanese": "禁煙室",
+   "Romaji": "kinenshitsu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 177,
+   "English": "Smoking room",
+   "Japanese": "喫煙室",
+   "Romaji": "kitsuenshitsu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 178,
+   "English": "Air conditioning",
+   "Japanese": "エアコン",
+   "Romaji": "eakon",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 179,
+   "English": "Wi-Fi",
+   "Japanese": "Wi-Fi",
+   "Romaji": "wai fai",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 180,
+   "English": "Bathroom",
+   "Japanese": "バスルーム",
+   "Romaji": "basuruumu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 181,
+   "English": "Shower",
+   "Japanese": "シャワー",
+   "Romaji": "shawaa",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 182,
+   "English": "Hot water",
+   "Japanese": "お湯",
+   "Romaji": "oyu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 183,
+   "English": "Towel",
+   "Japanese": "タオル",
+   "Romaji": "taoru",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 184,
+   "English": "Pillow",
+   "Japanese": "枕",
+   "Romaji": "makura",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 185,
+   "English": "Blanket",
+   "Japanese": "毛布",
+   "Romaji": "moufu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 186,
+   "English": "Hairdryer",
+   "Japanese": "ドライヤー",
+   "Romaji": "doraiyaa",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 187,
+   "English": "Elevator",
+   "Japanese": "エレベーター",
+   "Romaji": "erebeetaa",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 188,
+   "English": "Laundry room",
+   "Japanese": "ランドリールーム",
+   "Romaji": "randorii ruumu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 189,
+   "English": "Breakfast included",
+   "Japanese": "朝食付き",
+   "Romaji": "choushoku tsuki",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 190,
+   "English": "Public bath",
+   "Japanese": "大浴場",
+   "Romaji": "daiyokujou",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.2 Room & Facilities"
+ },
+ {
+   "#": 191,
+   "English": "The Wi-Fi is not working",
+   "Japanese": "Wi-Fiが使えません",
+   "Romaji": "wai fai ga tsukaemasen",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 192,
+   "English": "The air conditioner is not working",
+   "Japanese": "エアコンが動きません",
+   "Romaji": "eakon ga ugokimasen",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 193,
+   "English": "There is no hot water",
+   "Japanese": "お湯が出ません",
+   "Romaji": "oyu ga demasen",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 194,
+   "English": "The room is too cold",
+   "Japanese": "部屋が寒すぎます",
+   "Romaji": "heya ga samusugimasu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 195,
+   "English": "The room is too hot",
+   "Japanese": "部屋が暑すぎます",
+   "Romaji": "heya ga atsusugimasu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 196,
+   "English": "The room is noisy",
+   "Japanese": "部屋がうるさいです",
+   "Romaji": "heya ga urusai desu",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 197,
+   "English": "Can I change rooms?",
+   "Japanese": "部屋を変えられますか",
+   "Romaji": "heya o kaeraremasu ka",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 198,
+   "English": "I lost my room key",
+   "Japanese": "ルームキーをなくしました",
+   "Romaji": "ruumu kii o nakushimashita",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 199,
+   "English": "Please clean the room",
+   "Japanese": "部屋を掃除してください",
+   "Romaji": "heya o souji shite kudasai",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 200,
+   "English": "Please do not disturb",
+   "Japanese": "起こさないでください",
+   "Romaji": "okosanaide kudasai",
+   "Category": "05 Accommodation",
+   "Sub-Category": "5.3 Hotel Problems"
+ },
+ {
+   "#": 201,
+   "English": "Restaurant",
+   "Japanese": "レストラン",
+   "Romaji": "resutoran",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 202,
+   "English": "Table for two",
+   "Japanese": "2名です",
+   "Romaji": "ni mei desu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 203,
+   "English": "Table for four",
+   "Japanese": "4名です",
+   "Romaji": "yon mei desu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 204,
+   "English": "Do you have a table?",
+   "Japanese": "席はありますか",
+   "Romaji": "seki wa arimasu ka",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 205,
+   "English": "I have a reservation",
+   "Japanese": "予約があります",
+   "Romaji": "yoyaku ga arimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 206,
+   "English": "Non-smoking seat",
+   "Japanese": "禁煙席",
+   "Romaji": "kinenseki",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 207,
+   "English": "Smoking seat",
+   "Japanese": "喫煙席",
+   "Romaji": "kitsuen seki",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 208,
+   "English": "How long is the wait?",
+   "Japanese": "どのくらい待ちますか",
+   "Romaji": "dono kurai machimasu ka",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 209,
+   "English": "Menu, please",
+   "Japanese": "メニューをください",
+   "Romaji": "menyuu o kudasai",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 210,
+   "English": "English menu, please",
+   "Japanese": "英語のメニューをください",
+   "Romaji": "eigo no menyuu o kudasai",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.1 Entering & Seating"
+ },
+ {
+   "#": 211,
+   "English": "I would like this",
+   "Japanese": "これをください",
+   "Romaji": "kore o kudasai",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 212,
+   "English": "What is this?",
+   "Japanese": "これは何ですか",
+   "Romaji": "kore wa nan desu ka",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 213,
+   "English": "What do you recommend?",
+   "Japanese": "おすすめは何ですか",
+   "Romaji": "osusume wa nan desu ka",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 214,
+   "English": "I’ll have the same",
+   "Japanese": "同じものをください",
+   "Romaji": "onaji mono o kudasai",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 215,
+   "English": "One more, please",
+   "Japanese": "もう一つください",
+   "Romaji": "mou hitotsu kudasai",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 216,
+   "English": "Less spicy, please",
+   "Japanese": "辛さ控えめでお願いします",
+   "Romaji": "karasa hikaeme de onegaishimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 217,
+   "English": "Not spicy",
+   "Japanese": "辛くしないでください",
+   "Romaji": "karaku shinaide kudasai",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 218,
+   "English": "No onions",
+   "Japanese": "玉ねぎ抜きでお願いします",
+   "Romaji": "tamanegi nuki de onegaishimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 219,
+   "English": "No pork",
+   "Japanese": "豚肉抜きでお願いします",
+   "Romaji": "butaniku nuki de onegaishimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 220,
+   "English": "No beef",
+   "Japanese": "牛肉抜きでお願いします",
+   "Romaji": "gyuuniku nuki de onegaishimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 221,
+   "English": "No seafood",
+   "Japanese": "海鮮抜きでお願いします",
+   "Romaji": "kaisen nuki de onegaishimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 222,
+   "English": "Vegetarian",
+   "Japanese": "ベジタリアン",
+   "Romaji": "bejitarian",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 223,
+   "English": "I am allergic to peanuts",
+   "Japanese": "ピーナッツアレルギーがあります",
+   "Romaji": "piinattsu arerugii ga arimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 224,
+   "English": "I am allergic to shellfish",
+   "Japanese": "貝類アレルギーがあります",
+   "Romaji": "kairui arerugii ga arimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 225,
+   "English": "Is there alcohol in this?",
+   "Japanese": "これにアルコールは入っていますか",
+   "Romaji": "kore ni arukooru wa haitte imasu ka",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.2 Ordering"
+ },
+ {
+   "#": 226,
+   "English": "Rice",
+   "Japanese": "ご飯",
+   "Romaji": "gohan",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 227,
+   "English": "Noodles",
+   "Japanese": "麺",
+   "Romaji": "men",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 228,
+   "English": "Ramen",
+   "Japanese": "ラーメン",
+   "Romaji": "raamen",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 229,
+   "English": "Sushi",
+   "Japanese": "寿司",
+   "Romaji": "sushi",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 230,
+   "English": "Sashimi",
+   "Japanese": "刺身",
+   "Romaji": "sashimi",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 231,
+   "English": "Tempura",
+   "Japanese": "天ぷら",
+   "Romaji": "tenpura",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 232,
+   "English": "Curry rice",
+   "Japanese": "カレーライス",
+   "Romaji": "karee raisu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 233,
+   "English": "Bento",
+   "Japanese": "弁当",
+   "Romaji": "bentou",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 234,
+   "English": "Soup",
+   "Japanese": "スープ",
+   "Romaji": "suupu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 235,
+   "English": "Miso soup",
+   "Japanese": "味噌汁",
+   "Romaji": "misoshiru",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 236,
+   "English": "Chicken",
+   "Japanese": "鶏肉",
+   "Romaji": "toriniku",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 237,
+   "English": "Beef",
+   "Japanese": "牛肉",
+   "Romaji": "gyuuniku",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 238,
+   "English": "Pork",
+   "Japanese": "豚肉",
+   "Romaji": "butaniku",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 239,
+   "English": "Fish",
+   "Japanese": "魚",
+   "Romaji": "sakana",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 240,
+   "English": "Egg",
+   "Japanese": "卵",
+   "Romaji": "tamago",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.3 Food Words"
+ },
+ {
+   "#": 241,
+   "English": "Water",
+   "Japanese": "水",
+   "Romaji": "mizu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 242,
+   "English": "Hot water",
+   "Japanese": "お湯",
+   "Romaji": "oyu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 243,
+   "English": "Tea",
+   "Japanese": "お茶",
+   "Romaji": "ocha",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 244,
+   "English": "Green tea",
+   "Japanese": "緑茶",
+   "Romaji": "ryokucha",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 245,
+   "English": "Coffee",
+   "Japanese": "コーヒー",
+   "Romaji": "koohii",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 246,
+   "English": "Beer",
+   "Japanese": "ビール",
+   "Romaji": "biiru",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 247,
+   "English": "Sake",
+   "Japanese": "日本酒",
+   "Romaji": "nihonshu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 248,
+   "English": "Juice",
+   "Japanese": "ジュース",
+   "Romaji": "juusu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 249,
+   "English": "Ice cream",
+   "Japanese": "アイスクリーム",
+   "Romaji": "aisu kuriimu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 250,
+   "English": "Dessert",
+   "Japanese": "デザート",
+   "Romaji": "dezaato",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.4 Drinks & Dessert"
+ },
+ {
+   "#": 251,
+   "English": "Bill, please",
+   "Japanese": "お会計をお願いします",
+   "Romaji": "okaikei o onegaishimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 252,
+   "English": "Separate bills",
+   "Japanese": "別々でお願いします",
+   "Romaji": "betsubetsu de onegaishimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 253,
+   "English": "Together",
+   "Japanese": "一緒でお願いします",
+   "Romaji": "issho de onegaishimasu",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 254,
+   "English": "Can I pay by card?",
+   "Japanese": "カードで払えますか",
+   "Romaji": "kaado de haraemasu ka",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 255,
+   "English": "Can I pay by cash?",
+   "Japanese": "現金で払えますか",
+   "Romaji": "genkin de haraemasu ka",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 256,
+   "English": "Do you accept IC card?",
+   "Japanese": "ICカードは使えますか",
+   "Romaji": "IC kaado wa tsukaemasu ka",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 257,
+   "English": "Receipt, please",
+   "Japanese": "領収書をください",
+   "Romaji": "ryoushuusho o kudasai",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 258,
+   "English": "Keep the change",
+   "Japanese": "お釣りはいりません",
+   "Romaji": "otsuri wa irimasen",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 259,
+   "English": "Is service charge included?",
+   "Japanese": "サービス料は含まれていますか",
+   "Romaji": "saabisu ryou wa fukumarete imasu ka",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 260,
+   "English": "Thank you, it was delicious",
+   "Japanese": "ごちそうさまでした",
+   "Romaji": "gochisousama deshita",
+   "Category": "06 Restaurant & Food",
+   "Sub-Category": "6.5 Paying"
+ },
+ {
+   "#": 261,
+   "English": "How much is this?",
+   "Japanese": "これはいくらですか",
+   "Romaji": "kore wa ikura desu ka",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 262,
+   "English": "I’m just looking",
+   "Japanese": "見ているだけです",
+   "Romaji": "mite iru dake desu",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 263,
+   "English": "Do you have this?",
+   "Japanese": "これはありますか",
+   "Romaji": "kore wa arimasu ka",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 264,
+   "English": "Do you have another colour?",
+   "Japanese": "他の色はありますか",
+   "Romaji": "hoka no iro wa arimasu ka",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 265,
+   "English": "Do you have a smaller size?",
+   "Japanese": "小さいサイズはありますか",
+   "Romaji": "chiisai saizu wa arimasu ka",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 266,
+   "English": "Do you have a larger size?",
+   "Japanese": "大きいサイズはありますか",
+   "Romaji": "ookii saizu wa arimasu ka",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 267,
+   "English": "Can I try it on?",
+   "Japanese": "試着してもいいですか",
+   "Romaji": "shichaku shite mo ii desu ka",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 268,
+   "English": "Fitting room",
+   "Japanese": "試着室",
+   "Romaji": "shichakushitsu",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 269,
+   "English": "I’ll buy this",
+   "Japanese": "これを買います",
+   "Romaji": "kore o kaimasu",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 270,
+   "English": "I don’t need a bag",
+   "Japanese": "袋はいりません",
+   "Romaji": "fukuro wa irimasen",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.1 General Shopping"
+ },
+ {
+   "#": 271,
+   "English": "Cash",
+   "Japanese": "現金",
+   "Romaji": "genkin",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 272,
+   "English": "Credit card",
+   "Japanese": "クレジットカード",
+   "Romaji": "kurejitto kaado",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 273,
+   "English": "Debit card",
+   "Japanese": "デビットカード",
+   "Romaji": "debitto kaado",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 274,
+   "English": "Mobile payment",
+   "Japanese": "モバイル決済",
+   "Romaji": "mobairu kessai",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 275,
+   "English": "Do you accept Visa?",
+   "Japanese": "Visaは使えますか",
+   "Romaji": "Visa wa tsukaemasu ka",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 276,
+   "English": "Tax-free shopping",
+   "Japanese": "免税ショッピング",
+   "Romaji": "menzei shoppingu",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 277,
+   "English": "Can I get tax-free?",
+   "Japanese": "免税できますか",
+   "Romaji": "menzei dekimasu ka",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 278,
+   "English": "Passport",
+   "Japanese": "パスポート",
+   "Romaji": "pasupooto",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 279,
+   "English": "Please show your passport",
+   "Japanese": "パスポートを見せてください",
+   "Romaji": "pasupooto o misete kudasai",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 280,
+   "English": "Receipt",
+   "Japanese": "領収書",
+   "Romaji": "ryoushuusho",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.2 Payment & Tax-Free"
+ },
+ {
+   "#": 281,
+   "English": "Convenience store",
+   "Japanese": "コンビニ",
+   "Romaji": "konbini",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 282,
+   "English": "Bento",
+   "Japanese": "弁当",
+   "Romaji": "bentou",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 283,
+   "English": "Rice ball",
+   "Japanese": "おにぎり",
+   "Romaji": "onigiri",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 284,
+   "English": "Sandwich",
+   "Japanese": "サンドイッチ",
+   "Romaji": "sandoicchi",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 285,
+   "English": "Instant noodles",
+   "Japanese": "カップ麺",
+   "Romaji": "kappu men",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 286,
+   "English": "Please heat this",
+   "Japanese": "温めてください",
+   "Romaji": "atatamete kudasai",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 287,
+   "English": "Chopsticks",
+   "Japanese": "箸",
+   "Romaji": "hashi",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 288,
+   "English": "Spoon",
+   "Japanese": "スプーン",
+   "Romaji": "supuun",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 289,
+   "English": "Fork",
+   "Japanese": "フォーク",
+   "Romaji": "fooku",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 290,
+   "English": "Napkin",
+   "Japanese": "紙ナプキン",
+   "Romaji": "kami napukin",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.3 Convenience Store"
+ },
+ {
+   "#": 291,
+   "English": "Clothes",
+   "Japanese": "服",
+   "Romaji": "fuku",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 292,
+   "English": "Shoes",
+   "Japanese": "靴",
+   "Romaji": "kutsu",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 293,
+   "English": "Hat",
+   "Japanese": "帽子",
+   "Romaji": "boushi",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 294,
+   "English": "Umbrella",
+   "Japanese": "傘",
+   "Romaji": "kasa",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 295,
+   "English": "Souvenir",
+   "Japanese": "お土産",
+   "Romaji": "omiyage",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 296,
+   "English": "Gift",
+   "Japanese": "プレゼント",
+   "Romaji": "purezento",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 297,
+   "English": "Keychain",
+   "Japanese": "キーホルダー",
+   "Romaji": "kiihorudaa",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 298,
+   "English": "Magnet",
+   "Japanese": "マグネット",
+   "Romaji": "magunetto",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 299,
+   "English": "Postcard",
+   "Japanese": "ポストカード",
+   "Romaji": "posutokaado",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 300,
+   "English": "Wrapping",
+   "Japanese": "包装",
+   "Romaji": "housou",
+   "Category": "07 Shopping & Money",
+   "Sub-Category": "7.4 Clothing & Souvenirs"
+ },
+ {
+   "#": 301,
+   "English": "I feel sick",
+   "Japanese": "気分が悪いです",
+   "Romaji": "kibun ga warui desu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 302,
+   "English": "I have a fever",
+   "Japanese": "熱があります",
+   "Romaji": "netsu ga arimasu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 303,
+   "English": "I have a headache",
+   "Japanese": "頭が痛いです",
+   "Romaji": "atama ga itai desu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 304,
+   "English": "I have a stomachache",
+   "Japanese": "お腹が痛いです",
+   "Romaji": "onaka ga itai desu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 305,
+   "English": "I have a sore throat",
+   "Japanese": "喉が痛いです",
+   "Romaji": "nodo ga itai desu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 306,
+   "English": "I have a cough",
+   "Japanese": "咳が出ます",
+   "Romaji": "seki ga demasu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 307,
+   "English": "I feel dizzy",
+   "Japanese": "めまいがします",
+   "Romaji": "memai ga shimasu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 308,
+   "English": "I feel nauseous",
+   "Japanese": "吐き気がします",
+   "Romaji": "hakike ga shimasu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 309,
+   "English": "I have diarrhoea",
+   "Japanese": "下痢をしています",
+   "Romaji": "geri o shite imasu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 310,
+   "English": "I have food poisoning",
+   "Japanese": "食中毒かもしれません",
+   "Romaji": "shokuchuudoku kamo shiremasen",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.1 Feeling Unwell"
+ },
+ {
+   "#": 311,
+   "English": "Doctor",
+   "Japanese": "医者",
+   "Romaji": "isha",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 312,
+   "English": "Hospital",
+   "Japanese": "病院",
+   "Romaji": "byouin",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 313,
+   "English": "Clinic",
+   "Japanese": "クリニック",
+   "Romaji": "kurinikku",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 314,
+   "English": "Pharmacy",
+   "Japanese": "薬局",
+   "Romaji": "yakkyoku",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 315,
+   "English": "Medicine",
+   "Japanese": "薬",
+   "Romaji": "kusuri",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 316,
+   "English": "Painkiller",
+   "Japanese": "鎮痛剤",
+   "Romaji": "chintsuuzai",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 317,
+   "English": "Cold medicine",
+   "Japanese": "風邪薬",
+   "Romaji": "kazegusuri",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 318,
+   "English": "Allergy medicine",
+   "Japanese": "アレルギー薬",
+   "Romaji": "arerugii gusuri",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 319,
+   "English": "Bandage",
+   "Japanese": "包帯",
+   "Romaji": "houtai",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 320,
+   "English": "Plaster / Band-aid",
+   "Japanese": "絆創膏",
+   "Romaji": "bansoukou",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.2 Doctor & Pharmacy"
+ },
+ {
+   "#": 321,
+   "English": "Please call a doctor",
+   "Japanese": "医者を呼んでください",
+   "Romaji": "isha o yonde kudasai",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 322,
+   "English": "Please call an ambulance",
+   "Japanese": "救急車を呼んでください",
+   "Romaji": "kyuukyuusha o yonde kudasai",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 323,
+   "English": "I need to see a doctor",
+   "Japanese": "医者に診てもらいたいです",
+   "Romaji": "isha ni mite moraitai desu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 324,
+   "English": "Is there an English-speaking doctor?",
+   "Japanese": "英語を話せる医者はいますか",
+   "Romaji": "eigo o hanaseru isha wa imasu ka",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 325,
+   "English": "I have travel insurance",
+   "Japanese": "旅行保険に入っています",
+   "Romaji": "ryokou hoken ni haitte imasu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 326,
+   "English": "I am allergic to this medicine",
+   "Japanese": "この薬にアレルギーがあります",
+   "Romaji": "kono kusuri ni arerugii ga arimasu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 327,
+   "English": "I need a prescription",
+   "Japanese": "処方箋が必要です",
+   "Romaji": "shohousen ga hitsuyou desu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 328,
+   "English": "How often should I take this?",
+   "Japanese": "どのくらいの頻度で飲みますか",
+   "Romaji": "dono kurai no hindo de nomimasu ka",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 329,
+   "English": "Should I take it with food?",
+   "Japanese": "食後に飲みますか",
+   "Romaji": "shokugo ni nomimasu ka",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 330,
+   "English": "Emergency",
+   "Japanese": "緊急",
+   "Romaji": "kinkyuu",
+   "Category": "08 Medical & Sickness",
+   "Sub-Category": "8.3 Medical Help"
+ },
+ {
+   "#": 331,
+   "English": "Help!",
+   "Japanese": "助けて！",
+   "Romaji": "tasukete!",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 332,
+   "English": "Please help me",
+   "Japanese": "助けてください",
+   "Romaji": "tasukete kudasai",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 333,
+   "English": "Call the police",
+   "Japanese": "警察を呼んでください",
+   "Romaji": "keisatsu o yonde kudasai",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 334,
+   "English": "Police",
+   "Japanese": "警察",
+   "Romaji": "keisatsu",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 335,
+   "English": "Police box",
+   "Japanese": "交番",
+   "Romaji": "kouban",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 336,
+   "English": "I lost my passport",
+   "Japanese": "パスポートをなくしました",
+   "Romaji": "pasupooto o nakushimashita",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 337,
+   "English": "My wallet was stolen",
+   "Japanese": "財布を盗まれました",
+   "Romaji": "saifu o nusumaremashita",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 338,
+   "English": "My phone was stolen",
+   "Japanese": "携帯電話を盗まれました",
+   "Romaji": "keitai denwa o nusumaremashita",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 339,
+   "English": "I need the embassy",
+   "Japanese": "大使館へ行きたいです",
+   "Romaji": "taishikan e ikitai desu",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 340,
+   "English": "I need an interpreter",
+   "Japanese": "通訳が必要です",
+   "Romaji": "tsuuyaku ga hitsuyou desu",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.1 Help & Police"
+ },
+ {
+   "#": 341,
+   "English": "Fire",
+   "Japanese": "火事",
+   "Romaji": "kaji",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 342,
+   "English": "Earthquake",
+   "Japanese": "地震",
+   "Romaji": "jishin",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 343,
+   "English": "Typhoon",
+   "Japanese": "台風",
+   "Romaji": "taifuu",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 344,
+   "English": "Flood",
+   "Japanese": "洪水",
+   "Romaji": "kouzui",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 345,
+   "English": "Dangerous",
+   "Japanese": "危険",
+   "Romaji": "kiken",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 346,
+   "English": "Be careful",
+   "Japanese": "気をつけて",
+   "Romaji": "ki o tsukete",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 347,
+   "English": "Stop!",
+   "Japanese": "やめて！",
+   "Romaji": "yamete!",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 348,
+   "English": "Don’t touch me",
+   "Japanese": "触らないでください",
+   "Romaji": "sawaranai de kudasai",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 349,
+   "English": "I need help immediately",
+   "Japanese": "すぐ助けが必要です",
+   "Romaji": "sugu tasuke ga hitsuyou desu",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 350,
+   "English": "Where is the emergency exit?",
+   "Japanese": "非常口はどこですか",
+   "Romaji": "hijouguchi wa doko desu ka",
+   "Category": "09 Emergency & Safety",
+   "Sub-Category": "9.2 Danger & Problems"
+ },
+ {
+   "#": 351,
+   "English": "Temple",
+   "Japanese": "寺",
+   "Romaji": "tera",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 352,
+   "English": "Shrine",
+   "Japanese": "神社",
+   "Romaji": "jinja",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 353,
+   "English": "Castle",
+   "Japanese": "城",
+   "Romaji": "shiro",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 354,
+   "English": "Museum",
+   "Japanese": "博物館",
+   "Romaji": "hakubutsukan",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 355,
+   "English": "Art gallery",
+   "Japanese": "美術館",
+   "Romaji": "bijutsukan",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 356,
+   "English": "Park",
+   "Japanese": "公園",
+   "Romaji": "kouen",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 357,
+   "English": "Garden",
+   "Japanese": "庭園",
+   "Romaji": "teien",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 358,
+   "English": "Aquarium",
+   "Japanese": "水族館",
+   "Romaji": "suizokukan",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 359,
+   "English": "Zoo",
+   "Japanese": "動物園",
+   "Romaji": "doubutsuen",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 360,
+   "English": "Observation deck",
+   "Japanese": "展望台",
+   "Romaji": "tenboudai",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.1 Tourist Spots"
+ },
+ {
+   "#": 361,
+   "English": "Ticket",
+   "Japanese": "チケット",
+   "Romaji": "chiketto",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 362,
+   "English": "Entrance fee",
+   "Japanese": "入場料",
+   "Romaji": "nyuujouryou",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 363,
+   "English": "Adult ticket",
+   "Japanese": "大人料金",
+   "Romaji": "otona ryoukin",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 364,
+   "English": "Child ticket",
+   "Japanese": "子供料金",
+   "Romaji": "kodomo ryoukin",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 365,
+   "English": "Senior ticket",
+   "Japanese": "シニア料金",
+   "Romaji": "shinia ryoukin",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 366,
+   "English": "Student ticket",
+   "Japanese": "学生料金",
+   "Romaji": "gakusei ryoukin",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 367,
+   "English": "Is it open today?",
+   "Japanese": "今日は開いていますか",
+   "Romaji": "kyou wa aite imasu ka",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 368,
+   "English": "What time does it close?",
+   "Japanese": "何時に閉まりますか",
+   "Romaji": "nanji ni shimarimasu ka",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 369,
+   "English": "Can I buy tickets here?",
+   "Japanese": "ここでチケットを買えますか",
+   "Romaji": "koko de chiketto o kaemasu ka",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 370,
+   "English": "Do I need a reservation?",
+   "Japanese": "予約が必要ですか",
+   "Romaji": "yoyaku ga hitsuyou desu ka",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.2 Tickets & Entry"
+ },
+ {
+   "#": 371,
+   "English": "Can I take photos?",
+   "Japanese": "写真を撮ってもいいですか",
+   "Romaji": "shashin o totte mo ii desu ka",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 372,
+   "English": "No photos",
+   "Japanese": "写真撮影禁止",
+   "Romaji": "shashin satsuei kinshi",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 373,
+   "English": "Can you take a photo for me?",
+   "Japanese": "写真を撮ってもらえますか",
+   "Romaji": "shashin o totte moraemasu ka",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 374,
+   "English": "Please take one more",
+   "Japanese": "もう一枚お願いします",
+   "Romaji": "mou ichimai onegaishimasu",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 375,
+   "English": "Please stand here",
+   "Japanese": "ここに立ってください",
+   "Romaji": "koko ni tatte kudasai",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 376,
+   "English": "Where is the best view?",
+   "Japanese": "眺めが一番いい場所はどこですか",
+   "Romaji": "nagame ga ichiban ii basho wa doko desu ka",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 377,
+   "English": "Quiet, please",
+   "Japanese": "静かにしてください",
+   "Romaji": "shizuka ni shite kudasai",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 378,
+   "English": "Do not enter",
+   "Japanese": "立入禁止",
+   "Romaji": "tachiiri kinshi",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 379,
+   "English": "Take off your shoes",
+   "Japanese": "靴を脱いでください",
+   "Romaji": "kutsu o nuide kudasai",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 380,
+   "English": "Please line up",
+   "Japanese": "並んでください",
+   "Romaji": "narande kudasai",
+   "Category": "10 Sightseeing & Activities",
+   "Sub-Category": "10.3 Photos & Etiquette"
+ },
+ {
+   "#": 381,
+   "English": "Wi-Fi",
+   "Japanese": "Wi-Fi",
+   "Romaji": "wai fai",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 382,
+   "English": "What is the Wi-Fi password?",
+   "Japanese": "Wi-Fiのパスワードは何ですか",
+   "Romaji": "wai fai no pasuwaado wa nan desu ka",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 383,
+   "English": "The internet is slow",
+   "Japanese": "インターネットが遅いです",
+   "Romaji": "intaanetto ga osoi desu",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 384,
+   "English": "SIM card",
+   "Japanese": "SIMカード",
+   "Romaji": "simu kaado",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 385,
+   "English": "eSIM",
+   "Japanese": "eSIM",
+   "Romaji": "i sim",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 386,
+   "English": "Mobile data",
+   "Japanese": "モバイルデータ",
+   "Romaji": "mobairu deeta",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 387,
+   "English": "Charger",
+   "Japanese": "充電器",
+   "Romaji": "juudenki",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 388,
+   "English": "Power bank",
+   "Japanese": "モバイルバッテリー",
+   "Romaji": "mobairu batterii",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 389,
+   "English": "Power outlet",
+   "Japanese": "コンセント",
+   "Romaji": "konsento",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 390,
+   "English": "My phone battery is low",
+   "Japanese": "携帯の電池が少ないです",
+   "Romaji": "keitai no denchi ga sukunai desu",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.1 Internet & Phone"
+ },
+ {
+   "#": 391,
+   "English": "Map app",
+   "Japanese": "地図アプリ",
+   "Romaji": "chizu apuri",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 392,
+   "English": "Translation app",
+   "Japanese": "翻訳アプリ",
+   "Romaji": "honyaku apuri",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 393,
+   "English": "Can I use this app?",
+   "Japanese": "このアプリを使えますか",
+   "Romaji": "kono apuri o tsukaemasu ka",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 394,
+   "English": "Please type it here",
+   "Japanese": "ここに入力してください",
+   "Romaji": "koko ni nyuuryoku shite kudasai",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 395,
+   "English": "Please scan this QR code",
+   "Japanese": "このQRコードをスキャンしてください",
+   "Romaji": "kono kyuu aaruu koodo o sukyan shite kudasai",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 396,
+   "English": "QR code",
+   "Japanese": "QRコード",
+   "Romaji": "kyuu aaruu koodo",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 397,
+   "English": "Reservation number",
+   "Japanese": "予約番号",
+   "Romaji": "yoyaku bangou",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 398,
+   "English": "Confirmation email",
+   "Japanese": "確認メール",
+   "Romaji": "kakunin meeru",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 399,
+   "English": "I can’t open the app",
+   "Japanese": "アプリを開けません",
+   "Romaji": "apuri o hirakemasen",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 400,
+   "English": "Please help me connect",
+   "Japanese": "接続を手伝ってください",
+   "Romaji": "setsuzoku o tetsudatte kudasai",
+   "Category": "11 Connectivity & Technology",
+   "Sub-Category": "11.2 Apps & Translation"
+ },
+ {
+   "#": 401,
+   "English": "Weather",
+   "Japanese": "天気",
+   "Romaji": "tenki",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 402,
+   "English": "Sunny",
+   "Japanese": "晴れ",
+   "Romaji": "hare",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 403,
+   "English": "Cloudy",
+   "Japanese": "曇り",
+   "Romaji": "kumori",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 404,
+   "English": "Rain",
+   "Japanese": "雨",
+   "Romaji": "ame",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 405,
+   "English": "Snow",
+   "Japanese": "雪",
+   "Romaji": "yuki",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 406,
+   "English": "Windy",
+   "Japanese": "風が強い",
+   "Romaji": "kaze ga tsuyoi",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 407,
+   "English": "Hot",
+   "Japanese": "暑い",
+   "Romaji": "atsui",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 408,
+   "English": "Cold",
+   "Japanese": "寒い",
+   "Romaji": "samui",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 409,
+   "English": "Humid",
+   "Japanese": "蒸し暑い",
+   "Romaji": "mushiatsui",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 410,
+   "English": "What is the weather tomorrow?",
+   "Japanese": "明日の天気はどうですか",
+   "Romaji": "ashita no tenki wa dou desu ka",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.1 Weather"
+ },
+ {
+   "#": 411,
+   "English": "I need an umbrella",
+   "Japanese": "傘が必要です",
+   "Romaji": "kasa ga hitsuyou desu",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 412,
+   "English": "I need a raincoat",
+   "Japanese": "レインコートが必要です",
+   "Romaji": "rein kooto ga hitsuyou desu",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 413,
+   "English": "Jacket",
+   "Japanese": "ジャケット",
+   "Romaji": "jaketto",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 414,
+   "English": "Coat",
+   "Japanese": "コート",
+   "Romaji": "kooto",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 415,
+   "English": "Scarf",
+   "Japanese": "マフラー",
+   "Romaji": "mafuraa",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 416,
+   "English": "Gloves",
+   "Japanese": "手袋",
+   "Romaji": "tebukuro",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 417,
+   "English": "Heat pack",
+   "Japanese": "カイロ",
+   "Romaji": "kairo",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 418,
+   "English": "Sunscreen",
+   "Japanese": "日焼け止め",
+   "Romaji": "hiyakedome",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 419,
+   "English": "Sunglasses",
+   "Japanese": "サングラス",
+   "Romaji": "sangurasu",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 420,
+   "English": "It’s too cold today",
+   "Japanese": "今日は寒すぎます",
+   "Romaji": "kyou wa samusugimasu",
+   "Category": "12 Weather & Clothing",
+   "Sub-Category": "12.2 Clothing Needs"
+ },
+ {
+   "#": 421,
+   "English": "Zero",
+   "Japanese": "ゼロ",
+   "Romaji": "zero",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 422,
+   "English": "One",
+   "Japanese": "一",
+   "Romaji": "ichi",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 423,
+   "English": "Two",
+   "Japanese": "二",
+   "Romaji": "ni",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 424,
+   "English": "Three",
+   "Japanese": "三",
+   "Romaji": "san",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 425,
+   "English": "Four",
+   "Japanese": "四",
+   "Romaji": "yon",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 426,
+   "English": "Five",
+   "Japanese": "五",
+   "Romaji": "go",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 427,
+   "English": "Six",
+   "Japanese": "六",
+   "Romaji": "roku",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 428,
+   "English": "Seven",
+   "Japanese": "七",
+   "Romaji": "nana",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 429,
+   "English": "Eight",
+   "Japanese": "八",
+   "Romaji": "hachi",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 430,
+   "English": "Nine",
+   "Japanese": "九",
+   "Romaji": "kyuu",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 431,
+   "English": "Ten",
+   "Japanese": "十",
+   "Romaji": "juu",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 432,
+   "English": "Hundred",
+   "Japanese": "百",
+   "Romaji": "hyaku",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 433,
+   "English": "Thousand",
+   "Japanese": "千",
+   "Romaji": "sen",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 434,
+   "English": "Ten thousand",
+   "Japanese": "一万",
+   "Romaji": "ichiman",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 435,
+   "English": "Half",
+   "Japanese": "半分",
+   "Romaji": "hanbun",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.1 Numbers"
+ },
+ {
+   "#": 436,
+   "English": "Yen",
+   "Japanese": "円",
+   "Romaji": "en",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 437,
+   "English": "Cheap",
+   "Japanese": "安い",
+   "Romaji": "yasui",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 438,
+   "English": "Expensive",
+   "Japanese": "高い",
+   "Romaji": "takai",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 439,
+   "English": "Discount",
+   "Japanese": "割引",
+   "Romaji": "waribiki",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 440,
+   "English": "Too expensive",
+   "Japanese": "高すぎます",
+   "Romaji": "takasugimasu",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 441,
+   "English": "More",
+   "Japanese": "もっと",
+   "Romaji": "motto",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 442,
+   "English": "Less",
+   "Japanese": "少なめ",
+   "Romaji": "sukuname",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 443,
+   "English": "Enough",
+   "Japanese": "十分です",
+   "Romaji": "juubun desu",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 444,
+   "English": "One more",
+   "Japanese": "もう一つ",
+   "Romaji": "mou hitotsu",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 445,
+   "English": "Total",
+   "Japanese": "合計",
+   "Romaji": "goukei",
+   "Category": "13 Numbers, Money & Quantities",
+   "Sub-Category": "13.2 Money & Quantity"
+ },
+ {
+   "#": 446,
+   "English": "Toilet",
+   "Japanese": "トイレ",
+   "Romaji": "toire",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 447,
+   "English": "Men’s toilet",
+   "Japanese": "男性用トイレ",
+   "Romaji": "dansei you toire",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 448,
+   "English": "Women’s toilet",
+   "Japanese": "女性用トイレ",
+   "Romaji": "josei you toire",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 449,
+   "English": "Toilet paper",
+   "Japanese": "トイレットペーパー",
+   "Romaji": "toiretto peepaa",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 450,
+   "English": "Soap",
+   "Japanese": "石鹸",
+   "Romaji": "sekken",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 451,
+   "English": "Hand sanitizer",
+   "Japanese": "消毒液",
+   "Romaji": "shoudokueki",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 452,
+   "English": "Toothbrush",
+   "Japanese": "歯ブラシ",
+   "Romaji": "ha burashi",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 453,
+   "English": "Toothpaste",
+   "Japanese": "歯磨き粉",
+   "Romaji": "hamigakiko",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 454,
+   "English": "Shampoo",
+   "Japanese": "シャンプー",
+   "Romaji": "shanpuu",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 455,
+   "English": "Conditioner",
+   "Japanese": "コンディショナー",
+   "Romaji": "kondishonaa",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.1 Toilets & Hygiene"
+ },
+ {
+   "#": 456,
+   "English": "Laundry",
+   "Japanese": "洗濯",
+   "Romaji": "sentaku",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 457,
+   "English": "Washing machine",
+   "Japanese": "洗濯機",
+   "Romaji": "sentakuki",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 458,
+   "English": "Dryer",
+   "Japanese": "乾燥機",
+   "Romaji": "kansouki",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 459,
+   "English": "Detergent",
+   "Japanese": "洗剤",
+   "Romaji": "senzai",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 460,
+   "English": "Coin laundry",
+   "Japanese": "コインランドリー",
+   "Romaji": "koin randorii",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 461,
+   "English": "Where is the laundry room?",
+   "Japanese": "ランドリールームはどこですか",
+   "Romaji": "randorii ruumu wa doko desu ka",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 462,
+   "English": "How do I use this?",
+   "Japanese": "これはどう使いますか",
+   "Romaji": "kore wa dou tsukaimasu ka",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 463,
+   "English": "Plastic bag",
+   "Japanese": "ビニール袋",
+   "Romaji": "biniiru bukuro",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 464,
+   "English": "Trash bin",
+   "Japanese": "ゴミ箱",
+   "Romaji": "gomibako",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 465,
+   "English": "Where can I throw this away?",
+   "Japanese": "これはどこに捨てられますか",
+   "Romaji": "kore wa doko ni suteraremasu ka",
+   "Category": "14 Toilets, Laundry & Daily Needs",
+   "Sub-Category": "14.2 Laundry & Daily Items"
+ },
+ {
+   "#": 466,
+   "English": "Please line up",
+   "Japanese": "並んでください",
+   "Romaji": "narande kudasai",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 467,
+   "English": "Do not litter",
+   "Japanese": "ゴミを捨てないでください",
+   "Romaji": "gomi o sutenaide kudasai",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 468,
+   "English": "No smoking",
+   "Japanese": "禁煙",
+   "Romaji": "kin'en",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 469,
+   "English": "Smoking area",
+   "Japanese": "喫煙所",
+   "Romaji": "kitsuenjo",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 470,
+   "English": "No eating or drinking",
+   "Japanese": "飲食禁止",
+   "Romaji": "inshoku kinshi",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 471,
+   "English": "Please be quiet",
+   "Japanese": "静かにしてください",
+   "Romaji": "shizuka ni shite kudasai",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 472,
+   "English": "Priority seat",
+   "Japanese": "優先席",
+   "Romaji": "yuusenseki",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 473,
+   "English": "Please set your phone to silent",
+   "Japanese": "携帯電話をマナーモードにしてください",
+   "Romaji": "keitai denwa o manaamoodo ni shite kudasai",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 474,
+   "English": "Do not talk on the phone",
+   "Japanese": "通話はご遠慮ください",
+   "Romaji": "tsuuwa wa goenryo kudasai",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 475,
+   "English": "Queue here",
+   "Japanese": "ここに並んでください",
+   "Romaji": "koko ni narande kudasai",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.1 Public Manners"
+ },
+ {
+   "#": 476,
+   "English": "Hot spring",
+   "Japanese": "温泉",
+   "Romaji": "onsen",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 477,
+   "English": "Ryokan",
+   "Japanese": "旅館",
+   "Romaji": "ryokan",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 478,
+   "English": "Please wash before entering",
+   "Japanese": "入浴前に体を洗ってください",
+   "Romaji": "nyuuyoku mae ni karada o aratte kudasai",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 479,
+   "English": "Do not put towel in bath",
+   "Japanese": "タオルを湯船に入れないでください",
+   "Romaji": "taoru o yubune ni irenaide kudasai",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 480,
+   "English": "Are tattoos allowed?",
+   "Japanese": "タトゥーは大丈夫ですか",
+   "Romaji": "tatuu wa daijoubu desu ka",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 481,
+   "English": "Private bath",
+   "Japanese": "貸切風呂",
+   "Romaji": "kashikiriburo",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 482,
+   "English": "Public bath",
+   "Japanese": "大浴場",
+   "Romaji": "daiyokujou",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 483,
+   "English": "Yukata",
+   "Japanese": "浴衣",
+   "Romaji": "yukata",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 484,
+   "English": "Slippers",
+   "Japanese": "スリッパ",
+   "Romaji": "surippa",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 485,
+   "English": "Please take off your shoes",
+   "Japanese": "靴を脱いでください",
+   "Romaji": "kutsu o nuide kudasai",
+   "Category": "15 Culture, Rules & Public Etiquette",
+   "Sub-Category": "15.2 Onsen & Ryokan Etiquette"
+ },
+ {
+   "#": 486,
+   "English": "Entrance",
+   "Japanese": "入口",
+   "Romaji": "iriguchi",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 487,
+   "English": "Exit",
+   "Japanese": "出口",
+   "Romaji": "deguchi",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 488,
+   "English": "Emergency exit",
+   "Japanese": "非常口",
+   "Romaji": "hijouguchi",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 489,
+   "English": "Open",
+   "Japanese": "営業中",
+   "Romaji": "eigyouchuu",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 490,
+   "English": "Closed",
+   "Japanese": "閉店 / 休業",
+   "Romaji": "heiten / kyuugyou",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 491,
+   "English": "Reserved",
+   "Japanese": "予約済み",
+   "Romaji": "yoyaku-zumi",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 492,
+   "English": "Information",
+   "Japanese": "案内所",
+   "Romaji": "annaijo",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 493,
+   "English": "Lost and found",
+   "Japanese": "遺失物取扱所",
+   "Romaji": "ishitsubutsu toriatsukaijo",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 494,
+   "English": "Staff only",
+   "Japanese": "関係者以外立入禁止",
+   "Romaji": "kankeisha igai tachiiri kinshi",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 495,
+   "English": "No entry",
+   "Japanese": "立入禁止",
+   "Romaji": "tachiiri kinshi",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.1 Signs"
+ },
+ {
+   "#": 496,
+   "English": "I need help",
+   "Japanese": "助けが必要です",
+   "Romaji": "tasuke ga hitsuyou desu",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.2 Final Essential Phrases"
+ },
+ {
+   "#": 497,
+   "English": "Please call this number",
+   "Japanese": "この番号に電話してください",
+   "Romaji": "kono bangou ni denwa shite kudasai",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.2 Final Essential Phrases"
+ },
+ {
+   "#": 498,
+   "English": "I don’t feel safe",
+   "Japanese": "安全ではないと感じます",
+   "Romaji": "anzen dewa nai to kanjimasu",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.2 Final Essential Phrases"
+ },
+ {
+   "#": 499,
+   "English": "Please take me to the nearest hospital",
+   "Japanese": "一番近い病院へ連れて行ってください",
+   "Romaji": "ichiban chikai byouin e tsurete itte kudasai",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.2 Final Essential Phrases"
+ },
+ {
+   "#": 500,
+   "English": "Thank you for your help",
+   "Japanese": "助けてくれてありがとうございます",
+   "Romaji": "tasukete kurete arigatou gozaimasu",
+   "Category": "16 Useful Signs & Common Notices",
+   "Sub-Category": "16.2 Final Essential Phrases"
+ }
+]
